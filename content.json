@@ -1,0 +1,129 @@
+{
+    "home":{
+
+    },
+    "about":{
+        "heading": "Dr. Pradip Kr. Tarafdar",
+        "imgSrc": "../images/tarafdar.png",
+        "bio": "Dr. Tarafdar studied BSc at Ramakrishna Mission Vidyamandira, Belur. He passed MSc at University of Calcutta having specialization in Organic Chemistry. Later, he was inclined to biological processes and pursued PhD at School of Chemistry, University of Hyderabad under the supervision of Prof. Musti J. Swamy. During postdoctoral research, he worked with Prof. Barry Lentz (former President, Biophysical Society) at University of North Carolina at Chapel Hill, USA and as an Alexander von Humboldt Fellow with Prof. Reinhard Jahn at Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany.",
+        "emails":[
+            "tarafdar@iiserkol.ac.in",
+            "srpradip@gmail.com"
+        ],
+        "education":[
+            "B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002.",
+            "M.Sc. (Chemistry, Organic Chemistry Specialization), University of Calcutta, India, 2004.",
+            "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010."
+        ],
+        "employment":[
+            "CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006).",
+            "CSIR-SRF, School of Chemistry, University of Hyderabad, India, (2006-2009).",
+            "NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012).",
+            "Alexander von Humboldt Fellow, Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany (2013-2014).",
+            "DST-Inspire Faculty, Saha Institute of Nuclear Physics, Kolkata (2014-15).",
+            "Assistant Professor, Indian Institute of Science Education and Research Kolkata (2015-2021).",
+            "Associate Professor, Indian Institute of Science Education and Research Kolkata (2021-present)."
+        ]
+    },
+    "people":{
+        "doctoralStudents": [
+            {
+                "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
+                "image":"../images/people/current/avijit_edited.webp",
+                "email" : "as16rs019@iiserkol.ac.in",
+                "bsc" : "St. Paul's Cathedral Mission College",
+                "msc" : "Ramakrishna Mission Residential College, Narendrapur"
+            },
+            {
+                "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(2016-ongoing)</font>",
+                "image":"../images/people/current/mahesh.webp",
+                "email" : "mp16rs063@iiserkol.ac.in",
+                "bsc" : "P.K.Roy Memorial College, Dhanbad",
+                "msc" : "Vinoba Bhave University, Hazaribagh"
+            },
+            {
+                "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
+                "image":"../images/people/current/bibhas 2_edited.webp",
+                "email" : "bh17rs023@iiserkol.ac.in",
+                "bsc" : "Midnapore College",
+                "msc" : "Vidyasagar University"
+            },
+            {
+                "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
+                "image":"../images/people/current/raki.webp",
+                "email" : "rm17rs049@iiserkol.ac.in",
+                "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
+                "msc" : "Indian Institute of Technology, Delhi"
+            },
+            {
+                "name": "Mr. Anoy Mandal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
+                "image":"../images/people/current/placeholder.jpg",
+                "email" : "-",
+                "bsc" : "-",
+                "msc" : "-",
+                "html" : "<p>Integrated Ph-D Programme<br/>Indian Institute of Science Education and Research Kolkata</p>"
+            },
+            {
+                "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
+                "image":"../images/people/current/placeholder.jpg",   
+                "email" : "-",
+                "bsc" : "-",
+                "msc" : "-", 
+                "html" : "<p>Junior Research Fellow</p>"  
+            }  
+        ],
+        "undergrad":[
+            {
+                "name":"Soumajit Gayen, BSMS, 5th Year",
+                "email":"",
+                "image":""
+            },
+            {
+                "name":"Bishvanwesha Panda, BSMS 5th Year",
+                "email":"",
+                "image":""
+            }
+        ],
+        "alumini":[
+            {
+                "name":"Mr. Soumav Nath <br> <font style='font-size: small;'>(2016 - 2018)</font>",
+                "image":"../images/people/alumini",
+                "email":"soumav500nath@gmail.com",
+                "currentPosition":"PhD Student at Heinrich-Heine-Universitat Dusseldorf & Forchungszentrum Julich"
+            },
+            {
+                "name":"Mr. Rahul Prakash <br> <font style='font-size: small;'>(2017 - 2019)</font>",
+                "image":"../images/people/alumini",
+                "email":"rp14ms034@iiserkol.ac.in; rahulisgenius@gmail.com",
+                "currentPosition":"Graduate Fellow, University of South Carolina, USA"
+            },
+            {
+                "name":"Mr. Rajat Roy <br> <font style='font-size: small;'>(2017-2019)</font>",
+                "image":"../images/people/alumini",
+                "email":"rajatbdn2012@gmail.com; rr1150@georgetown.edu",
+                "currentPosition":"Graduate Fellow, Georgetown University"
+            },
+            {
+                "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
+                "image":"../images/people/alumini",
+                "email":"saifrahman321@gmail.com",
+                "currentPosition":"MBA, Indian Institute of Management Roorkee"
+            },
+            {
+                "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
+                "image":"../images/people/alumini",
+                "email":"",
+                "currentPosition":""
+            }
+        ],
+        "previousProject":[
+            "Mr. Arup Bhowmick - Ramakrishna Mission Residential College, Narendrapur - Project",
+            "Mr. Arkajt Guha - IISER Pune - Summer 2017",
+            "Ms. Shreejita Das - Visva-Bharati University - Summer 2017",
+            "Ms. Sayani Sarkar - Pondicherry University - Summer 2018",
+            "Mr. Sudipta Mondal - IISER Kolkata - Winter 2018",
+            "Ms. Ondrilla Deb - AMITY University, Delhi - Summer 2019",
+            "Ms. Pragya Kumari - IISER Kolkata - Summer 2019"
+        ]
+    }
+}

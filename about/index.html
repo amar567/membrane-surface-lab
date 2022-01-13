@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+  <link href="../styles.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <title>Home</title>
+</head>
+<body>
+  
+  <div class="nav">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+      <div class="nav-title">
+        <img src="../images/logo.svg" alt="" srcset="" style="height: 10vh;">
+        <div style="display: flex;flex-direction: column;height: 10vh;flex-wrap: nowrap;padding: 0 10px;justify-content: flex-end">
+          Department of Chemical Sciences
+          <br>
+          IISER Kolkata
+        </div>
+      </div>
+    </div>
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+    
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/about/">Dr. Pradip Kr. Tarafdar</a>
+      <a href="/people">People</a>
+      <a href="/research">Research</a>
+      <a href="/publication">Publications</a>
+      <a href="/gallery">Gallery</a>
+      <a href="/contact">Contact</a>
+    </div>
+  </div>
+  
+  <main id="swup" class="transition-fade">
+    <div style="height:16vh"></div>    
+    <div class="home-container" id="home">
+      <div class="home-image-container" >
+        <a href="/about">
+          <img id="about-img" src="" alt="" srcset="" style="padding: 0;width: 400px;max-width: 80vw;">
+        </a>
+      </div>
+      <div class="about-text-container">
+        <h1 id="heading" style="font-size: 3.2em;"></h1>
+        <div class="about-scroll">
+          <div>
+            <h3>Bio</h3>
+            <p id="bio"></p>
+          </div>
+          <div>
+            <b>Emails</b> : <ul id="emails"></ul>
+          </div>  
+          <div>
+            <h3>Education :</h3> <ul id="education"></ul>
+          </div>
+          <div>
+            <h3>Employment :</h3> <ul id="employment"></ul>
+          </div>
+        </div>    
+      </div>
+    </div>
+  </main>
+  <script type="text/javascript">
+    let json = $.getJSON("../content.json", function(data) {
+      
+      let about = data.about;
+      
+      document.getElementById("about-img").src = about.imgSrc;
+      
+      document.getElementById("heading").innerHTML = about.heading;
+      
+      document.getElementById("bio").innerHTML = about.bio;
+      
+      let emails = []
+      for(let i = 0; i < about.emails.length; i++) {
+        emails.push(`<a href="mailto:${about.emails[i]}"><li>${about.emails[i]}</li></a>`)
+      }
+      document.getElementById("emails").innerHTML = emails;
+      
+      let education = []
+      for(let i = 0; i < about.education.length; i++) {
+        education.push(`<li>${about.education[i]}</li>`)
+      }
+      document.getElementById("education").innerHTML = education;
+      
+      let employment = []
+      for(let i = 0; i < about.employment.length; i++) {
+        employment.push(`<li>${about.employment[i]}</li>`)
+      }
+      document.getElementById("employment").innerHTML = employment;
+      
+      
+    });
+    
+    </script>
+    <!-- <script defer src="../node_modules/swup/dist/swup.min.js"></script>
+    <script defer src="../script.js"></script> -->
+  </body>
+  </html>

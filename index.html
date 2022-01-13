@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- <script defer src="node_modules/swup/dist/swup.min.js"></script>
+  <script defer src="script.js"></script> -->
+  <link href="styles.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <title>Home</title>
+</head>
+<body>
+
+  <div class="nav">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+      <div class="nav-title">
+        <img src="./images/logo.svg" alt="" srcset="" style="height: 10vh;">
+        <div style="display: flex;flex-direction: column;height: 10vh;flex-wrap: nowrap;padding: 0 10px;justify-content: flex-end">
+          Department of Chemical Sciences
+          <br>
+          IISER Kolkata
+        </div>
+      </div>
+    </div>
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+    
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/about/">Dr. Pradip Kr. Tarafdar</a>
+      <a href="/people">People</a>
+      <a href="/research">Research</a>
+      <a href="/publication">Publications</a>
+      <a href="/gallery">Gallery</a>
+      <a href="/contact">Contact</a>
+    </div>
+  </div>
+
+  <main id="swup" class="transition-fade">
+    <div style="height:16vh"></div>    
+    <div class="home-container" id="home">
+      <div class="home-image-container" >
+        <a href="/about/" style="text-align: center;">
+          <img src="./images/taraf.png" alt="" srcset="" style="border-radius:1000px;width: 400px;max-width: 80vw;">
+          <h2>Dr. Pradip Kr. Tarafdar</h2>
+        </a>
+      </div>
+      <div class="home-text-container">
+        <h1>Welcome to the research group of Dr. Pradip Kumar Tarafdar. Our major focus is on Supramolecular Chemistry and Chemical Biology. </h1>
+        <ul style="font-size: 1.3em;font-weight: 500;">
+          <li>Development of novel antivirals and antibacterials.</li>
+
+          <li>Development of synthetic methodologies in water.</li>
+
+          <li>Development of amyloid inhibitors.</li>
+        </ul>
+      </div>
+    </div>
+
+  </main>
+</body>
+</html>
