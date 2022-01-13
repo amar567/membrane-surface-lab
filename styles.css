@@ -183,7 +183,7 @@ body {
   /* height: 84vh; */
   display: flex;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   align-content: center;
   padding: 0;
