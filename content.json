@@ -56,16 +56,16 @@
                 "msc" : "Indian Institute of Technology, Delhi"
             },
             {
-                "name": "Mr. Anoy Mandal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
-                "image":"../images/people/current/placeholder.jpg",
-                "email" : "-",
-                "bsc" : "-",
-                "msc" : "-",
+                "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
+                "image":"../images/people/current/Anoy.jfif",
+                "email" : "am18ip004@iiserkol.ac.in",
+                "bsc" : "Durgapur Govt. College, Burdwan University",
+                "msc" : "IISER Kolkata",
                 "html" : "<p>Integrated Ph-D Programme<br/>Indian Institute of Science Education and Research Kolkata</p>"
             },
             {
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
-                "image":"../images/people/current/placeholder.jpg",   
+                "image":"../images/people/current/Nik.jpg",   
                 "email" : "-",
                 "bsc" : "-",
                 "msc" : "-", 
@@ -75,11 +75,11 @@
         "undergrad":[
             {
                 "name":"Soumajit Gayen, BSMS, 5th Year",
-                "email":"",
-                "image":""
+                "email":"sg17ms208@iiserkol.ac.in",
+                "image":"../images/people/current/Soumajit.jpg"
             },
             {
-                "name":"Bishvanwesha Panda, BSMS 5th Year",
+                "name":"Bishvanwesha Panda, BSMS, 5th Year",
                 "email":"",
                 "image":""
             }
