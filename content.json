@@ -72,7 +72,14 @@
                 "email" : "nd20rs021@iiserkol.ac.in",
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
                 "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
-            }  
+            },
+            {
+                "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>(2021 - Ongoing)</font>",
+                "image":"../images/people/current/sanu.jpeg",   
+                "email" : "ss21rs106@iiserkol.ac.in",
+                "bsc" : "Ramakrishna Mission Vivekananda Centenary College",
+                "msc" : "University of Kalyani"
+            }    
         ],
         "undergrad":[
             {
