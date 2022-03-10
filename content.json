@@ -1,6 +1,10 @@
 {
     "home":{
-
+        "heroSection":{
+            "backgroundImg":"./images/auditorium.jpg",
+            "message":"unravelling the mystries of nature through chemistry .",
+            "messageColor":"white"
+        }        
     },
     "about":{
         "heading": "Dr. Pradip Kr. Tarafdar",
@@ -60,16 +64,14 @@
                 "image":"../images/people/current/Anoy.jfif",
                 "email" : "am18ip004@iiserkol.ac.in",
                 "bsc" : "Durgapur Govt. College, Burdwan University",
-                "msc" : "IISER Kolkata",
-                "html" : "<p>Integrated Ph-D Programme<br/>Indian Institute of Science Education and Research Kolkata</p>"
+                "msc" : "IISER Kolkata"
             },
             {
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "image":"../images/people/current/Nik.jpg",   
                 "email" : "nd20rs021@iiserkol.ac.in",
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
-                "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh ", 
-                "html" : "<p>Junior Research Fellow</p>"  
+                "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
             }  
         ],
         "undergrad":[
@@ -80,38 +82,43 @@
             },
             {
                 "name":"Bishvanwesha Panda, BSMS, 5th Year",
-                "email":"",
-                "image":""
+                "email":"bp16ms133@iiserkol.ac.in",
+                "image":"../images/people/current/Bishvanwesha.jpeg"
+            },
+            {
+                "name":"Debosmita Bhowmick, BSMS, 4th Year",
+                "email":"db18ms032@iiserkol.ac.in",
+                "image":"../images/people/current/Bishvanwesha.jpeg"
             }
         ],
-        "alumini":[
+        "alumni":[
             {
                 "name":"Mr. Soumav Nath <br> <font style='font-size: small;'>(2016 - 2018)</font>",
-                "image":"../images/people/alumini",
+                "image":"../images/people/alumini/soumav.jpg",
                 "email":"soumav500nath@gmail.com",
                 "currentPosition":"PhD Student at Heinrich-Heine-Universitat Dusseldorf & Forchungszentrum Julich"
             },
             {
                 "name":"Mr. Rahul Prakash <br> <font style='font-size: small;'>(2017 - 2019)</font>",
-                "image":"../images/people/alumini",
+                "image":"../images/people/alumini/rahul.jpg",
                 "email":"rp14ms034@iiserkol.ac.in; rahulisgenius@gmail.com",
                 "currentPosition":"Graduate Fellow, University of South Carolina, USA"
             },
             {
                 "name":"Mr. Rajat Roy <br> <font style='font-size: small;'>(2017-2019)</font>",
-                "image":"../images/people/alumini",
+                "image":"../images/people/alumini/rajat.jpg",
                 "email":"rajatbdn2012@gmail.com; rr1150@georgetown.edu",
                 "currentPosition":"Graduate Fellow, Georgetown University"
             },
             {
                 "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
-                "image":"../images/people/alumini",
+                "image":"../images/people/alumini/saif.jpg",
                 "email":"saifrahman321@gmail.com",
                 "currentPosition":"MBA, Indian Institute of Management Roorkee"
             },
             {
                 "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
-                "image":"../images/people/alumini",
+                "image":"../images/people/alumini/nilesh.jpg",
                 "email":"",
                 "currentPosition":""
             }
@@ -124,6 +131,34 @@
             "Mr. Sudipta Mondal - IISER Kolkata - Winter 2018",
             "Ms. Ondrilla Deb - AMITY University, Delhi - Summer 2019",
             "Ms. Pragya Kumari - IISER Kolkata - Summer 2019"
+        ]
+    },
+    "news":{
+        "newsList":[
+            {
+                "title":"PKT is nominated for Noble price in Chemistry for year 2023",
+                "image":"../images/news/auditorium.jpg",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            },
+            {
+                "title":"PKT is nominated for Noble price in Chemistry for year 2023",
+                "image":"../images/news/auditorium.jpg",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            },
+            {
+                "title":"PKT is nominated for Noble price in Chemistry for year 2023",
+                "image":"../images/news/auditorium.jpg",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            },
+            {
+                "title":"PKT is nominated for Noble price in Chemistry for year 2023",
+                "image":"../images/news/auditorium.jpg",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
         ]
     }
 }

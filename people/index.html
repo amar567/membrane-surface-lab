@@ -34,12 +34,12 @@
     
     <div class="nav-links">
       <a href="/">Home</a>
-      <a href="/about/">Dr. Pradip Kr. Tarafdar</a>
+      <a href="/news/">News</a>
       <a href="/people">People</a>
       <a href="/research">Research</a>
       <a href="/publication">Publications</a>
       <a href="/gallery">Gallery</a>
-      <a href="/contact">Contact</a>
+      <a href="/about/">Contact</a>
       
     </div>
   </div>
@@ -59,7 +59,14 @@
         <h1 style="font-size: 3.6em;text-align: center;">
           UNDERGRADUATE STUDENTS
       </div>
-      <div class="cards-container" id="doctoral"></div>
+      <div class="cards-container" id="undergrad"></div>
+      
+      <div class="people-heading">
+        <h1 style="font-size: 3.6em;text-align: center;">
+          ALUMINI
+      </div>
+      <div class="cards-container" id="alumni"></div>
+
     </div>
   </main>
   <script type="text/javascript">
@@ -102,37 +109,51 @@
 
 
       let ug = []
-      for(let i=0;i<people.doctoralStudents.length;i++){
+      for(let i=0;i<people.undergrad.length;i++){
         ug.push(
           `
           <div class="card-container">
           <div class="card-image-container">
-            <img class="card-image" src="${people.doctoralStudents[i].image}" alt="" srcset="">
+            <img class="card-image" src="${people.undergrad[i].image}" alt="" srcset="">
           </div>
           <div class="card-text-container">
-            <div class="name">${people.doctoralStudents[i].name}</div>
+            <div class="name">${people.undergrad[i].name}</div>
             <div class="specifics">
               <div class="card-specifics-title">Email : </div>
-              <a href="mailto:${people.doctoralStudents[i].email}">${people.doctoralStudents[i].email}</a>
+              <a href="mailto:${people.undergrad[i].email}">${people.undergrad[i].email}</a>
             </div>
-            <div class="specifics">
-              <div class="card-specifics-title">B.Sc.:</div>
-              ${people.doctoralStudents[i].bsc}
-            </div>
-            <div class="specifics">
-              <div class="card-specifics-title">M.Sc.:</div>
-              ${people.doctoralStudents[i].msc}
-            </div>
-            ${
-              (people.doctoralStudents[i].html)? people.doctoralStudents[i].html : ""
-            }
           </div>
         </div>
         `
         )
       }
       ug = ug.join("")
-      document.getElementById("doctoral").innerHTML = ug;
+      console.log(ug);
+      document.getElementById("undergrad").innerHTML = ug;
+
+      
+      let alumni = []
+      for(let i=0;i<people.alumni.length;i++){
+        alumni.push(
+          `
+          <div class="card-container">
+          <div class="card-image-container">
+            <img class="card-image" src="${people.alumni[i].image}" alt="" srcset="">
+          </div>
+          <div class="card-text-container">
+            <div class="name">${people.alumni[i].name}</div>
+            <div class="specifics">
+              <div class="card-specifics-title">Email : </div>
+              <a href="mailto:${people.alumni[i].email}">${people.alumni[i].email}</a>
+            </div>
+          </div>
+        </div>
+        `
+        )
+      }
+      alumni = alumni.join("")
+      console.log(alumni);
+      document.getElementById("alumni").innerHTML = alumni;
 
     });
     

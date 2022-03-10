@@ -6,10 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- <script defer src="node_modules/swup/dist/swup.min.js"></script>
   <script defer src="script.js"></script> -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
   <link href="./styles.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/home.css">
   <title>Home</title>
 </head>
 <body>
@@ -36,16 +38,16 @@
     
     <div class="nav-links">
       <a href="/">Home</a>
-      <a href="/about/">Dr. Pradip Kr. Tarafdar</a>
+      <a href="/news/">News</a>
       <a href="/people">People</a>
       <a href="/research">Research</a>
       <a href="/publication">Publications</a>
       <a href="/gallery">Gallery</a>
-      <a href="/contact">Contact</a>
+      <a href="/about/">Contact</a>
     </div>
   </div>
 
-  <main id="swup" class="transition-fade">
+  <!-- <main id="swup" class="transition-fade">
     <div style="height:16vh"></div>    
     <div class="home-container" id="home">
       <div class="home-image-container" >
@@ -66,6 +68,67 @@
       </div>
     </div>
 
-  </main>
+  </main> -->
+
+  <div class="homepg-hero-container" id="homePageHero" style="
+      background-repeat: no-repeat;
+      background-attachment:fixed;
+      background-position: center;
+  " >
+    <h1 id="heroMsg" style="
+      border: 0;
+      margin: 0;
+      padding-bottom: 8vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10vh 10vw;
+      text-transform: uppercase;
+    ">
+      <!-- message will be rendered here -->
+    </h1>
+  </div>
+
+  <div class="homepg-content" id="homePage">
+    <h1 style="padding-bottom: 2vh;">Latest News</h1>
+    <div class="newsContainer" id="newsContainer">
+      <!-- latest news will be rendered here -->
+    </div>
+  </div>
+
+  <script>
+    let json = $.getJSON("../content.json", function(data) {
+
+      // homepage hero message
+      let home = data.home;
+      document.getElementById("homePageHero").style = `background-image : url(${home.heroSection.backgroundImg})`;
+      document.getElementById("heroMsg").innerHTML = home.heroSection.message
+      document.getElementById("heroMsg").style.color = home.heroSection.messageColor
+
+      // latest news
+      
+      let news = data.news;
+      let newsContainer = document.getElementById("newsContainer");
+      
+      let newsList = [];
+      for(let i = 0; i < news.newsList.length -1; i++) {
+        newsList.push(`
+          <div class="news">
+            <div class="news-image-container">
+              <img class="newsImage" src="./news/${news.newsList[i].image}" alt="" srcset="">
+            </div>
+            <div class="news-text-container">
+              <p class="news-heading">${news.newsList[i].title}</p>
+              <p class="news-date">${news.newsList[i].date}</p>
+              <p class="details">${news.newsList[i].description.substring(0,100)}...</p>
+            </div>
+          </div>
+        `);
+      }
+
+      newsContainer.innerHTML = newsList.join("");
+
+    })
+  </script>
 </body>
 </html>

@@ -30,6 +30,12 @@ a:focus:hover{
   text-align: center;
 }
 
+div p{
+  margin: 6px;
+  padding: 0;
+  border: 0;
+}
+
 .transition-fade {
   opacity: 1;
   transition: 400ms;
@@ -245,7 +251,7 @@ body {
 
 .card-container{
   width: 350px;
-  height: 600px;
+  height: 500px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -254,6 +260,7 @@ body {
   background-color: #ffffffde;
   box-shadow: 0px 2px 6px 2px rgb(0 0 255 / 20%);
   margin: 10px;
+  margin-bottom: 4vh;
 }
 
 .card-image-container{
