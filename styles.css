@@ -191,7 +191,6 @@ body {
   justify-content: center;
   flex-direction: row;
   align-items: center;
-  align-content: center;
   padding: 0;
 }
 
@@ -228,7 +227,7 @@ body {
 
 .about-scroll{
   overflow: scroll;
-  height: 100%;
+  /* height: 100%; */
 }
 .about-scroll::-webkit-scrollbar {
   width: 4px;
@@ -250,32 +249,30 @@ body {
 }
 
 .card-container{
-  width: 350px;
-  height: 500px;
+  width: 600px;
+  height: 300px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   border-radius: 16px;
   background-color: #ffffffde;
   box-shadow: 0px 2px 6px 2px rgb(0 0 255 / 20%);
-  margin: 10px;
-  margin-bottom: 4vh;
+  margin-bottom: 6vh;
 }
 
 .card-image-container{
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 3vh 0  0 0;
   align-items: center;
   align-content: center;
 }
 
 .card-image{
-  width: 240px;
-  height: 240px;
-  border-radius: 1000px;
+  width: 300px;
+  height: 300px;
+  border-radius: 16px;
 }
 
 .card-text-container{
@@ -288,19 +285,20 @@ body {
 }
 
 .name{
-  font-size: 25px;
+  font-size: 2rem;
   font-weight: 500;
   color: #0b0000;
   width: inherit;
   text-align: center;
 }
 .specifics{
-  font-size: 16px;
-  font-weight: 500;
+  margin-top: 2vh;
   color: #0b0000;
   display: flex;
-  width: inherit;
   flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: inherit;
   flex-wrap: nowrap;
 }
 
@@ -308,4 +306,15 @@ body {
   font-size: 18px;
   font-weight: 600;
   color: #0b0000;
+}
+
+.profile-btn{
+  width: 8rem;
+  height: 3rem;
+  color: white;
+  font-size: large;
+  border: 0;
+  margin-top: 2vh;
+  background: #002B98;
+  border-radius: 10px;
 }

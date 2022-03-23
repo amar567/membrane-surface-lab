@@ -166,6 +166,65 @@
                 "date":"29th May, 2020",
                 "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
             }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+            ,
+            {
+                "title":"This is a dummy news: XYZ got abc prize in chem",
+                "image":"../images/logo 2.png",
+                "date":"29th May, 2020",
+                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+            }
+        ]
+    },
+    "contact":{
+        "heading": "Contact Us",
+        "imgSrc": "../images/tarafdar.png",
+        "joinUsStatement": "We look for talented and dedicated students to pursue research in the field of Bioorganic Chemistry. Interested students may write to Dr. Pradip Kumar Tarafdar (email: tarafdar@iiserkol.ac.in).",
+        "emails":[
+            "tarafdar@iiserkol.ac.in",
+            "srpradip@gmail.com"
+        ],
+        "phoneNumbers":[
+            "+91-33-613600001311 - Office",
+            "+91-33-613600001521 - Lab"
+        ],
+        "address": [
+            "M353, 3rd floor, DCS, Research complex IISER Kolkata",
+            "room no 321, office corridor 3rd floor DCS, Research complex IISER Kolkata"
         ]
     }
 }

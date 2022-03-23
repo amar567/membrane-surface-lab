@@ -43,7 +43,7 @@
       <a href="/research">Research</a>
       <a href="/publication">Publications</a>
       <a href="/gallery">Gallery</a>
-      <a href="/about/">Contact</a>
+      <a href="/contact/">Contact</a>
     </div>
   </div>
 
@@ -89,12 +89,30 @@
     </h1>
   </div>
 
+  <div class="homepg-content" id="">
+    <h1 style="padding-bottom: 2vh;font-size: 3rem;">Research</h1>
+    <div class="" id="">
+      <!-- latest news will be rendered here -->
+    </div>
+  </div>
+
   <div class="homepg-content" id="homePage">
-    <h1 style="padding-bottom: 2vh;">Latest News</h1>
+    <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest News</h1>
     <div class="newsContainer" id="newsContainer">
       <!-- latest news will be rendered here -->
     </div>
   </div>
+
+  <div class="homepg-content" id="">
+    <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest Publications</h1>
+    <div class="" id="">
+      <!-- latest news will be rendered here -->
+    </div>
+  </div>
+
+  <!-- <div class="footer">
+
+  </div> -->
 
   <script>
     let json = $.getJSON("../content.json", function(data) {
@@ -111,7 +129,7 @@
       let newsContainer = document.getElementById("newsContainer");
       
       let newsList = [];
-      for(let i = 0; i < news.newsList.length -1; i++) {
+      for(let i = 0; i < 3; i++) {
         newsList.push(`
           <div class="news">
             <div class="news-image-container">
