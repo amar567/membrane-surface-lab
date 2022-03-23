@@ -50,6 +50,24 @@
       <div class="people-heading">
         <div style="height: 4vh;"></div>
         <h1 style="font-size: 3.6em;text-align: center;">
+          MEET THE GORUP
+        </h1>
+      </div>
+      <div style="height: 4vh;"></div>
+      <div class="cards-container" id="grpPhoto"></div>
+
+      <div class="people-heading">
+        <div style="height: 4vh;"></div>
+        <h1 style="font-size: 3.6em;text-align: center;">
+          PRINCIPLE INVESTIGATOR
+        </h1>
+      </div>
+      <div style="height: 4vh;"></div>
+      <div class="cards-container" id="pi"></div>
+
+      <div class="people-heading">
+        <div style="height: 4vh;"></div>
+        <h1 style="font-size: 3.6em;text-align: center;">
           DOCTORAL STUDENTS
         </h1>
       </div>
@@ -87,6 +105,34 @@
     let json = $.getJSON("../content.json", function(data) {
       
       let people = data.people;
+
+      let grpPhoto = people.grpPhoto;
+      document.getElementById("grpPhoto").innerHTML = `
+        <img src="${people.groupPhoto}" alt="meet our group" srcset="">
+      `
+
+      let pi = people.PI;
+      document.getElementById("pi").innerHTML = `
+          <div class="card-container">
+            <div class="card-image-container">
+              <img class="card-image" src="${pi.image}" alt="" srcset="">
+            </div>
+            <div class="card-text-container">
+              <div class="name">${pi.name}</div>
+              <div class="specifics">
+                <a href="mailto:${pi.email}">
+                  <img src="./../images/mail.svg" alt="" srcset="" style="height: 4rem;">
+                </a>
+                <a href="mailto:${pi.email}">
+                  <img src="./../images/twitter.svg" alt="" srcset="" style="height: 4rem;">
+                </a>
+              </div>
+              <button class="profile-btn">
+                View
+              </button>
+            </div>
+          </div>
+        `;
 
       let doc = []
       for(let i=0;i<people.doctoralStudents.length;i++){
