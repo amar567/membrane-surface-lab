@@ -30,6 +30,7 @@
         ]
     },
     "people":{
+        "groupPhoto":"../images/people/group.jpg",
         "doctoralStudents": [
             {
                 "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
