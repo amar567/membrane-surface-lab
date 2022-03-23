@@ -32,11 +32,11 @@
     "people":{
         "groupPhoto":"../images/people/group.jpg",
         "PI":{
-            "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
+            "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: medium;'>(Associate Professor)</font>",
             "image":"../images/tarafdar.png",
-            "email" : "as16rs019@iiserkol.ac.in",
-            "bsc" : "St. Paul's Cathedral Mission College",
-            "msc" : "Ramakrishna Mission Residential College, Narendrapur"
+            "email" : "tarafdar@iiserkol.ac.in",
+            "PhD.." : "Guide - Prof. Musti J. Swamy, University of Hyderabad.",
+            "Post Doc" : "Guide - Prof. Barry Lentz, University of North Carolina at Chapel Hill."
         },
         "doctoralStudents": [
             {
@@ -91,17 +91,17 @@
         ],
         "undergrad":[
             {
-                "name":"Soumajit Gayen, BS-MS, 5th Year.",
+                "name":"Soumajit Gayen <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
                 "email":"sg17ms208@iiserkol.ac.in",
                 "image":"../images/people/current/Soumajit.jpg"
             },
             {
-                "name":"Bishvanwesha Panda, BS-MS, 5th Year.",
+                "name":"Bishvanwesha Panda <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
                 "email":"bp16ms133@iiserkol.ac.in",
                 "image":"../images/people/current/Bishvanwesha.jpg"
             },
             {
-                "name":"Debosmita Bhowmick, BS-MS, 4th Year.",
+                "name":"Debosmita Bhowmick <br> <font style='font-size: medium;'>(4th Year BS-MS)</font>",
                 "email":"db18ms032@iiserkol.ac.in",
                 "image":"../images/people/current/db.jpeg"
             }
