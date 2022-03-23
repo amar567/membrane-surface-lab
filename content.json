@@ -151,88 +151,88 @@
     "news":{
         "newsList":[
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 3.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Soumajit gets another PhD. offer from USA. Congratulations!",
+                "image":"../images/people/current/Soumajit.jpg",
+                "date":"11th Feb, 2022",
+                "description":"Soumajit gets his second PhD. offer from the University of Massachuesetts Amherst, USA for the term of fall 2022."
             },
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Mr. Sanu Sar joins our lab. Welcome!",
+                "image":"../images/people/current/sanu 2.jpeg",
+                "date":"20th Jan, 2022",
+                "description":"Mr. Sanu Sar joins as a DST-INSPIRE Doctoral Student after completing his MSc from University of Kalyani."
             },
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 3.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Bishvanwesha gets a PhD. offer from USA. Congratulations!",
+                "image":"../images/people/current/Bishvanwesha.jpg",
+                "date":"20th Jan, 2022",
+                "description":"Bishvanwesha gets a PhD. offer from the University of Michigan Ann Arbor, USA for the term of fall 2022."
             },
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Avijit bagged the best presentation award in JNOST. Congratulations!",
+                "image":"../images/people/current/avijit_edited.webp",
+                "date":"9th Jan, 2022",
+                "description":"Avijit was conferred with the best presentation award at JNOST - The Seminar hosted by University of Hyderabad."
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Our work is accepted in ACS Appl. Polym. Mater.",
+                "image":"../images/publication/bibhas dec.jpeg",
+                "date":"31st Dec, 2021",
+                "description":"Bibhas' work on charge variable macromolecules is accepted. Congratulations!"
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Soumajit gets a PhD. offer from USA. Congratulations!",
+                "image":"../images/people/current/Soumajit.jpg",
+                "date":"22nd Dec, 2021",
+                "description":"Soumajit gets his a PhD. offer from the University of Minnesota Twin Cities, USA for the term of fall 2022."
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Our work is accepted in Chemistry- An Asian Journal.",
+                "image":"../images/publication/soumav sept.webp",
+                "date":"27th Sept, 2021",
+                "description":"Soumav's work on inhibition of Insulin Fibrillization using Heme analogs is accepted. Congratulations!"
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Our work is accepted in RSC - Chemical Communications.",
+                "image":"../images/publication/raki sept.png",
+                "date":"15th Sept, 2021",
+                "description":"Raki's work on Membrane transport inspired hydrolysis of non activated ester is accepted. Congratulations!"
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Our work is accepted in RSC - Organic & Biomolecular Chemistry.",
+                "image":"../images/publication/bibhas aug.png",
+                "date":"16th Aug, 2021",
+                "description":"Bibhas' work on the microenvironment guided selection of cationic amino acids is accpted. Congratulations!"
             }
             ,
             {
-                "title":"This is a dummy news: XYZ got abc prize in chem",
-                "image":"../images/logo 2.png",
-                "date":"29th May, 2020",
-                "description":"The academic calendar for the academic year 2019-2020 has been uploaded."
+                "title":"Our work is accepted in Angewandte Chemie International Edition.",
+                "image":"../images/publication/avijit nov.jpg",
+                "date":"26th Nov, 2020",
+                "description":"Avijit's work on Translation of Mycobacterium Survival Strategy to Develop a Lipo-peptide based Fusion Inhibitor is accpted. Congratulations!"
             }
         ]
     },
     "contact":{
         "heading": "Contact Us",
-        "imgSrc": "../images/tarafdar.png",
+        "imgSrc": "../images/logo 3.png",
         "joinUsStatement": "We look for talented and dedicated students to pursue research in the field of Bioorganic Chemistry. Interested students may write to Dr. Pradip Kumar Tarafdar (email: tarafdar@iiserkol.ac.in).",
         "emails":[
             "tarafdar@iiserkol.ac.in",
             "srpradip@gmail.com"
         ],
         "phoneNumbers":[
-            "+91-33-613600001311 - Office",
-            "+91-33-613600001521 - Lab"
+            "Office : +91-33-6136-0000 (1311)",
+            "Lab : +91-33-6136-0000 (1521)"
         ],
         "address": [
-            "M353, 3rd floor, DCS, Research complex IISER Kolkata",
-            "room no 321, office corridor 3rd floor DCS, Research complex IISER Kolkata"
+            "Lab : M353, 3rd floor, DCS, Research complex, IISER Kolkata",
+            "Office : Room no 321, office corridor 3rd floor DCS, Research complex IISER Kolkata"
         ]
     }
 }
