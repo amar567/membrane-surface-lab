@@ -64,7 +64,7 @@
                 <div class="news-text-container">
                   <p class="news-heading">${news.newsList[i].title}</p>
                   <p class="news-date">${news.newsList[i].date}</p>
-                  <p class="details">${news.newsList[i].description.substring(0,100)}...</p>
+                  <p class="details">${news.newsList[i].description.substring(0,200)}...</p>
                 </div>
               </div>
           `);
@@ -74,7 +74,7 @@
       })
 
       const view = (i)=>{
-        window.location.assign(`/news/view/${i}`);
+        window.location.assign(`/news/view/?index=${i}`);
       }
     </script>
 
