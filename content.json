@@ -30,7 +30,7 @@
         ]
     },
     "people":{
-        "groupPhoto":"../images/people/group.jpg",
+        "groupPhoto":"../images/people/group 2.jpg",
         "PI":{
             "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: medium;'>(Associate Professor)</font>",
             "image":"../images/tarafdar.png",
@@ -234,6 +234,45 @@
         "address": [
             "Lab : M353, 3rd floor, DCS, Research complex, IISER Kolkata",
             "Office : Room no 321, office corridor 3rd floor, DCS, Research complex IISER Kolkata"
+        ]
+    },
+    "publications":{
+        "heading": "Publications",
+        "publicationList":[
+            {
+                "title":"title goes here",
+                "image":"../images/publication/img.jpg",
+                "date":"31st Dec, 2021",
+                "link":"https://link/goes/here",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"title goes here",
+                "image":"../images/publication/img.jpg",
+                "date":"31st Dec, 2021",
+                "link":"https://link/goes/here",
+                "DOI":"doi/goes/here"
+            }
+        ]
+    },
+    "research":{
+        "heading": "Research",
+        "researchTopics":[
+            {
+                "title":"title goes here",
+                "image":"../images/publication/img.jpg",
+                "discription":"discription goes here"
+            },
+            {
+                "title":"title goes here",
+                "image":"../images/publication/img.jpg",
+                "discription":"discription goes here"
+            },
+            {
+                "title":"title goes here",
+                "image":"../images/publication/img.jpg",
+                "discription":"discription goes here"
+            }
         ]
     }
 }
