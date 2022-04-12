@@ -48,5 +48,40 @@
     <div class="newsContainer">
         
     </div>
+
+    <script>
+        var url_string = window.location.href
+        var url = new URL(url_string);
+
+        let index = url.searchParams.get("index")||0;
+
+        let json = $.getJSON("../../content.json", function(data) {
+        let news = data.news.newsList[index];
+
+        console.log(news);
+        
+        let newsContainer = document.querySelector(".newsContainer");
+        newsContainer.innerHTML = `
+        <div class="news">
+            <div class="news-header">
+                <div class="news-title">
+                    <h1>${news.title}</h1>
+                </div>
+                <div class="news-date">
+                    <h3>${news.date}</h3>
+                </div>
+            </div>
+            <div class="news-content">
+                <div class="news-image">
+                    <img src="../${news.image}" alt="" style="width:400px">
+                </div>
+                <div class="news-text">
+                    <p>${news.description}</p>
+                </div>
+            </div>
+            `
+        
+      })
+    </script>
   </body>
   </html>

@@ -16,6 +16,7 @@
     border-radius: 10px;
     width: 320px;
     margin-bottom: 4vh;
+    cursor: pointer;
 }
 
 .news-image-container{
