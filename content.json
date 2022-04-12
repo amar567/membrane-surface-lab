@@ -34,6 +34,7 @@
         "PI":{
             "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: medium;'>(Associate Professor)</font>",
             "image":"../images/tarafdar.png",
+            "twitter":"link to twitter",
             "email" : "tarafdar@iiserkol.ac.in",
             "PhD.." : "Guide - Prof. Musti J. Swamy, University of Hyderabad.",
             "Post Doc" : "Guide - Prof. Barry Lentz, University of North Carolina at Chapel Hill."
@@ -42,6 +43,7 @@
             {
                 "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "image":"../images/people/current/avijit_edited.webp",
+                "twitter":"link to twitter",
                 "email" : "as16rs019@iiserkol.ac.in",
                 "bsc" : "St. Paul's Cathedral Mission College",
                 "msc" : "Ramakrishna Mission Residential College, Narendrapur"
@@ -49,6 +51,7 @@
             {
                 "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "image":"../images/people/current/mahesh.webp",
+                "twitter":"link to twitter",
                 "email" : "mp16rs063@iiserkol.ac.in",
                 "bsc" : "P.K.Roy Memorial College, Dhanbad",
                 "msc" : "Vinoba Bhave University, Hazaribagh"
@@ -56,6 +59,7 @@
             {
                 "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "image":"../images/people/current/bibhas 2_edited.webp",
+                "twitter":"link to twitter",
                 "email" : "bh17rs023@iiserkol.ac.in",
                 "bsc" : "Midnapore College",
                 "msc" : "Vidyasagar University"
@@ -63,6 +67,7 @@
             {
                 "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "image":"../images/people/current/raki.webp",
+                "twitter":"link to twitter",
                 "email" : "rm17rs040@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
                 "msc" : "Indian Institute of Technology, Delhi"
@@ -70,6 +75,7 @@
             {
                 "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
                 "image":"../images/people/current/Anoy.jfif",
+                "twitter":"link to twitter",
                 "email" : "am18ip004@iiserkol.ac.in",
                 "bsc" : "Durgapur Govt. College, Burdwan University",
                 "msc" : "IISER Kolkata"
@@ -77,6 +83,7 @@
             {
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "image":"../images/people/current/Nik.jpg",   
+                "twitter":"link to twitter",
                 "email" : "nd20rs021@iiserkol.ac.in",
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
                 "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
@@ -84,6 +91,7 @@
             {
                 "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>(2021 - Ongoing)</font>",
                 "image":"../images/people/current/sanu.jpeg",   
+                "twitter":"link to twitter",
                 "email" : "ss21rs106@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College",
                 "msc" : "University of Kalyani"
@@ -92,16 +100,19 @@
         "undergrad":[
             {
                 "name":"Soumajit Gayen <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
+                "twitter":"link to twitter",
                 "email":"sg17ms208@iiserkol.ac.in",
                 "image":"../images/people/current/Soumajit.jpg"
             },
             {
                 "name":"Bishvanwesha Panda <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
+                "twitter":"link to twitter",
                 "email":"bp16ms133@iiserkol.ac.in",
                 "image":"../images/people/current/Bishvanwesha.jpg"
             },
             {
                 "name":"Debosmita Bhowmick <br> <font style='font-size: medium;'>(4th Year BS-MS)</font>",
+                "twitter":"link to twitter",
                 "email":"db18ms032@iiserkol.ac.in",
                 "image":"../images/people/current/db.jpeg"
             }
@@ -110,30 +121,35 @@
             {
                 "name":"Mr. Soumav Nath <br> <font style='font-size: small;'>(2016 - 2018)</font>",
                 "image":"../images/people/alumni/soumav.jpg",
+                "twitter":"link to twitter",
                 "email":"soumav500nath@gmail.com",
                 "currentPosition":"PhD Student at Heinrich-Heine-Universitat Dusseldorf & Forchungszentrum Julich"
             },
             {
                 "name":"Mr. Rahul Prakash <br> <font style='font-size: small;'>(2017 - 2019)</font>",
                 "image":"../images/people/alumni/rahul.jpg",
+                "twitter":"link to twitter",
                 "email":"rp14ms034@iiserkol.ac.in; rahulisgenius@gmail.com",
                 "currentPosition":"Graduate Fellow, University of South Carolina, USA"
             },
             {
                 "name":"Mr. Rajat Roy <br> <font style='font-size: small;'>(2017-2019)</font>",
                 "image":"../images/people/alumni/rajat.jpg",
+                "twitter":"link to twitter",
                 "email":"rajatbdn2012@gmail.com; rr1150@georgetown.edu",
                 "currentPosition":"Graduate Fellow, Georgetown University"
             },
             {
                 "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
                 "image":"../images/people/alumni/saif.jpg",
+                "twitter":"link to twitter",
                 "email":"saifrahman321@gmail.com",
                 "currentPosition":"MBA, Indian Institute of Management Roorkee"
             },
             {
                 "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
                 "image":"../images/people/alumni/nilesh.jpg",
+                "twitter":"link to twitter",
                 "email":"",
                 "currentPosition":""
             }
@@ -265,19 +281,19 @@
         "heading": "Research",
         "researchTopics":[
             {
-                "title":"title goes here",
+                "title":"Antivirals and antibacterials:",
                 "image":"../images/publication/img.jpg",
-                "discription":"discription goes here"
+                "discription":"The emergence of new viruses and their potential mutations obstruct effective vaccine development and possible cure. For example, the recent coronavirus infection already killed ~ 250000 people in India, influenza kills ~ 290000-650000 people annually, dengue infected ~ 4.7 million people last year. An effective fusion inhibitor may emerge as an effective broad-spectrum antiviral to neutralize the infection from harmful enveloped viruses as membrane fusion is extremely important to the life cycle of these viruses. We aim to learn from mother nature to develop an effective fusion inhibitor. Our peptide inhibitors were shown to protect cells from lethal type 1 influenza virus and mouse coronavirus viral challenge as a ‘broad spectrum’ antiviral agent. In addition, we develop polymer-based anti-bacterials."
             },
             {
-                "title":"title goes here",
+                "title":"Membrane Transport inspired Organic Methodology in water:",
                 "image":"../images/publication/img.jpg",
-                "discription":"discription goes here"
+                "discription":"Membrane trafficking is a core biological process and using this nature directs the correct cargo in a guided manner i.e. to the right place at the right time. We envisioned whether the membrane trafficking can be utilized to promote proximity and localization of reactants to design a small molecule enzyme mimic. We report for the first time that positively charged micro heterogeneous vehicles loaded with substrate could be trafficked suitably at the site of the reaction to promote the localization and proximity of the reactants.  The guided vehicular delivery coupled with electrolysis overcomes the entropic barrier related to the proximity of the reactants and allows the hydrolysis of non-activated esters, electron transfer reactions at physiological pH."
             },
             {
-                "title":"title goes here",
+                "title":"Amyloid Fibril Inhibitor:",
                 "image":"../images/publication/img.jpg",
-                "discription":"discription goes here"
+                "discription":"There are currently more than twenty identified amyloid-associated disorders, including common neurodegenerative diseases such as Alzheimer’s disease (AD), Parkinson’s disease, and prion disorders. Unfortunately, the molecular-level understanding of the pathways, including kinetic barrier leading to these debilitating proteopathies remains obscure. We found that the hydrophobic and H-bonding anchoring sites of porphyrin-based molecules inhibit the self-aggregation of amyloidogenic proteins via strong binding with protein units. Our molecules with hydrogen bonding anchoring sites at both sides, was identified as a potent inhibitor to insulin, amyloid-beta and lysozyme fibrillation."
             }
         ]
     }

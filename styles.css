@@ -132,6 +132,11 @@ body {
   display: none;
 }
 
+#navbar {
+  top: 0; /* Stay on top */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
+}
+
 @media (max-width:600px) {
   .nav > .nav-btn {
     display: flex;

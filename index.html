@@ -16,7 +16,7 @@
 </head>
 <body>
 
-  <div class="nav">
+  <div class="nav" style="color: white;" id="navbar">
     <input type="checkbox" id="nav-check">
     <div class="nav-header">
       <div class="nav-title">
@@ -41,7 +41,7 @@
       <a href="/people">People</a>
       <a href="/research">Research</a>
       <a href="/publication">Publications</a>
-      <a href="/gallery">Gallery</a>
+      <!-- <a href="/gallery">Gallery</a> -->
       <a href="/contact/">Contact</a>
     </div>
   </div>
@@ -74,6 +74,7 @@
       background-attachment:fixed;
       background-position: center;
   " >
+    <img src="" alt="">
     <h1 id="heroMsg" style="
       border: 0;
       margin: 0;
@@ -146,6 +147,31 @@
       newsContainer.innerHTML = newsList.join("");
 
     })
+
+    $(document).ready(function(){
+      $("a").css("color" , "white");	
+      $(window).scroll(function(){
+        var scroll = $(window).scrollTop();
+        if (scroll > 300) {
+          $("a").css("color" , "black");
+        }
+        else{
+          $("a").css("color" , "white");	
+        }
+      })
+    })
+
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+      var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("navbar").style.top = "0";
+      } else {
+        document.getElementById("navbar").style.top = "-13vh";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+
   </script>
 </body>
 </html>
