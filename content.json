@@ -150,11 +150,12 @@
     },
     "news":{
         "newsList":[
+            
             {
-                "title":"Soumajit gets another PhD. offer from USA. Congratulations!",
+                "title":"Bish Panda gets another PhD. offer from USA. Congratulations!",
                 "image":"../images/people/current/Soumajit.jpg",
-                "date":"11th Feb, 2022",
-                "description":"Soumajit gets his second PhD. offer from the University of Massachuesetts Amherst, USA for the term of fall 2022."
+                "date":"5th April, 2022",
+                "description":"Bish Panda gets his second PhD. offer from the University of Arizona, USA for the term of fall 2022."
             },
             {
                 "title":"Mr. Sanu Sar joins our lab. Welcome!",
