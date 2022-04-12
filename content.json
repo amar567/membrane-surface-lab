@@ -59,7 +59,7 @@
             {
                 "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "image":"../images/people/current/bibhas 2_edited.webp",
-                "twitter":"link to twitter",
+                "twitter":"@BibhasHazra5",
                 "email" : "bh17rs023@iiserkol.ac.in",
                 "bsc" : "Midnapore College",
                 "msc" : "Vidyasagar University"
@@ -67,7 +67,7 @@
             {
                 "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "image":"../images/people/current/raki.webp",
-                "twitter":"link to twitter",
+                "twitter":"@rmiiserkol",
                 "email" : "rm17rs040@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
                 "msc" : "Indian Institute of Technology, Delhi"
@@ -100,7 +100,7 @@
         "undergrad":[
             {
                 "name":"Soumajit Gayen <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
-                "twitter":"link to twitter",
+                "twitter":"@soumajit_gayen",
                 "email":"sg17ms208@iiserkol.ac.in",
                 "image":"../images/people/current/Soumajit.jpg"
             },
