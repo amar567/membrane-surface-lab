@@ -297,12 +297,20 @@
                 "DOI":"doi/goes/here"
             },
             {
+                "title":"Structure‐activity relationship of heme and its analogues in membrane damage and inhibition of fusion. D. Das, P. K. Tarafdar* and A. Chakraborti*. FEBS Letters.",
+                "image":"../images/publication/febs.png",
+                "date":"20th June, 2018",
+                "link":"https://doi.org/10.1002/1873-3468.13165",
+                "DOI":"doi/goes/here"
+            },
+            {
                 "title":"A headgroup linker perturbs pKa via acyl chain migration: designing base-labile supramolecular assemblies. A. Sardar, N. Rout, S. Nath, M. Prasad & P. K Tarafdar*. Chemical Communications.",
                 "image":"../images/publication/cc avijit.png",
                 "date":"29th March, 2018",
                 "link":"https://doi.org/10.1039/C8CC00776D",
                 "DOI":"doi/goes/here"
             }
+            
 
         ]
     },
