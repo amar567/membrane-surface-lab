@@ -72,3 +72,31 @@
 .footer_container{
     background-color: none;
 }
+
+.researchcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.researchTopic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 320px;
+    min-height: 320px;
+    padding: 10px;
+    box-shadow: rgb(0 0 0 / 25%) 0 0px 15px;
+    border-radius: 50px;
+}
+
+.researchImage{
+    width: 300px;
+    border-radius: 10px;
+}

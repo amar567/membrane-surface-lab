@@ -1,11 +1,11 @@
-.newsContainer{
+.newsContainer2{
     display:flex;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:center;
-    align-items:center;
+    align-items:flex-start;
 }
 
 .news-content{
-    
+    /*  */
 }

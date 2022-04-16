@@ -46,29 +46,6 @@
     </div>
   </div>
 
-  <!-- <main id="swup" class="transition-fade">
-    <div style="height:16vh"></div>    
-    <div class="home-container" id="home">
-      <div class="home-image-container" >
-        <a href="/about/" style="text-align: center;">
-          <img src="./images/taraf.png" alt="" srcset="" style="border-radius:1000px;width: 400px;max-width: 80vw;">
-          <h2>Dr. Pradip Kr. Tarafdar</h2>
-        </a>
-      </div>
-      <div class="home-text-container">
-        <h1>Welcome to the research group of Dr. Pradip Kumar Tarafdar. Our major focus is on Supramolecular Chemistry and Chemical Biology. </h1>
-        <ul style="font-size: 1.3em;font-weight: 500;">
-          <li>Development of novel antivirals and antibacterials.</li>
-
-          <li>Development of synthetic methodologies in water.</li>
-
-          <li>Development of amyloid inhibitors.</li>
-        </ul>
-      </div>
-    </div>
-
-  </main> -->
-
   <div class="homepg-hero-container" id="homePageHero" style="
       background-repeat: no-repeat;
       background-attachment:fixed;
@@ -91,8 +68,8 @@
 
   <div class="homepg-content" id="">
     <h1 style="padding-bottom: 2vh;font-size: 3rem;">Research</h1>
-    <div class="" id="">
-      <!-- latest news will be rendered here -->
+    <div class="researchcontainer" id="researchcontainer">
+      <!-- research topics will be rendered here -->
     </div>
   </div>
 
@@ -105,7 +82,7 @@
 
   <div class="homepg-content" id="">
     <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest Publications</h1>
-    <div class="" id="">
+    <div class="researchcontainer" id="publicationsContainer">
       <!-- latest news will be rendered here -->
     </div>
   </div>
@@ -131,14 +108,14 @@
       let newsList = [];
       for(let i = 0; i < 3; i++) {
         newsList.push(`
-          <div class="news">
+          <div class="news" onclick="view(${i})" style="cursor: pointer;;">
             <div class="news-image-container">
               <img class="newsImage" src="./news/${news.newsList[i].image}" alt="" srcset="">
             </div>
             <div class="news-text-container">
               <p class="news-heading">${news.newsList[i].title}</p>
               <p class="news-date">${news.newsList[i].date}</p>
-              <p class="details">${news.newsList[i].description.substring(0,100)}...</p>
+              <p class="details">${news.newsList[i].description.substring(0,50)}...</p>
             </div>
           </div>
         `);
@@ -146,13 +123,59 @@
 
       newsContainer.innerHTML = newsList.join("");
 
+      // research topics
+      let research = data.research;
+
+      let researchContainer = document.getElementById("researchcontainer");
+      let researchList = [];
+      for(let i = 0; i < 3; i++) {
+        researchList.push(`
+        <div class="researchTopic" onclick="viewResearch(${i})" style="cursor: pointer;" >
+          <img class="researchImage" src="${'./images/'+research.researchTopics[i].image}" alt="">
+          <h3 style="padding: 10px;">${research.researchTopics[i].title}</ style="padding: 10px;">
+        </div>
+        `);
+      }
+
+      researchContainer.innerHTML = researchList.join("");
+
+      // latest publications
+      let publications = data.publications;
+      let publicationsContainer = document.getElementById("publicationsContainer");
+
+      // console.log(publications);
+
+      let publicationList = [];
+      for(let i = 0; i < 3; i++) {
+        publicationList.push(`
+          <div class="researchTopic" onclick="viewPublications(${i})" style="cursor: pointer;" >
+            <img class="researchImage" src="${'./images/'+publications.publicationList[i].image}" alt="">
+            <h3 style="padding: 10px;">${publications.publicationList[i].title}</ style="padding: 10px;">
+          </div>
+        `);
+      }
+
+      publicationsContainer.innerHTML = publicationList.join("");
+
     })
+
+    const view = (i)=>{
+      window.location.assign(`/news/view/?index=${i}`);
+    }
+
+    const viewResearch = (i)=>{
+      window.location.assign(`/research/#${i}`);
+    }
+
+    const viewPublications = (i)=>{
+      window.location.assign(`/publication/#${i}`);
+    }
 
     $(document).ready(function(){
       $("a").css("color" , "white");	
       $(window).scroll(function(){
         var scroll = $(window).scrollTop();
-        if (scroll > 300) {
+        if (scroll > 500) {
           $("a").css("color" , "black");
         }
         else{

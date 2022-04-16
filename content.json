@@ -313,17 +313,17 @@
         "heading": "Research",
         "researchTopics":[
             {
-                "title":"Antivirals and antibacterials:",
+                "title":"Antivirals and antibacterials",
                 "image":"../images/publication/avijit nov.jpg",
                 "discription":"The emergence of new viruses and their potential mutations obstruct effective vaccine development and possible cure. For example, the recent coronavirus infection already killed ~ 250000 people in India, influenza kills ~ 290000-650000 people annually, dengue infected ~ 4.7 million people last year. An effective fusion inhibitor may emerge as an effective broad-spectrum antiviral to neutralize the infection from harmful enveloped viruses as membrane fusion is extremely important to the life cycle of these viruses. We aim to learn from mother nature to develop an effective fusion inhibitor. Our peptide inhibitors were shown to protect cells from lethal type 1 influenza virus and mouse coronavirus viral challenge as a ‘broad spectrum’ antiviral agent. In addition, we develop polymer-based anti-bacterials."
             },
             {
-                "title":"Membrane Transport inspired Organic Methodology in water:",
+                "title":"Membrane Transport inspired Organic Methodology in water",
                 "image":"../images/publication/raki sept.png",
                 "discription":"Membrane trafficking is a core biological process and using this nature directs the correct cargo in a guided manner i.e. to the right place at the right time. We envisioned whether the membrane trafficking can be utilized to promote proximity and localization of reactants to design a small molecule enzyme mimic. We report for the first time that positively charged micro heterogeneous vehicles loaded with substrate could be trafficked suitably at the site of the reaction to promote the localization and proximity of the reactants.  The guided vehicular delivery coupled with electrolysis overcomes the entropic barrier related to the proximity of the reactants and allows the hydrolysis of non-activated esters, electron transfer reactions at physiological pH."
             },
             {
-                "title":"Amyloid Fibril Inhibitors:",
+                "title":"Amyloid Fibril Inhibitors",
                 "image":"../images/publication/soumav sept.webp",
                 "discription":"There are currently more than twenty identified amyloid-associated disorders, including common neurodegenerative diseases such as Alzheimer’s disease (AD), Parkinson’s disease, and prion disorders. Unfortunately, the molecular-level understanding of the pathways, including kinetic barrier leading to these debilitating proteopathies remains obscure. We found that the hydrophobic and H-bonding anchoring sites of porphyrin-based molecules inhibit the self-aggregation of amyloidogenic proteins via strong binding with protein units. Our molecules with hydrogen bonding anchoring sites at both sides, was identified as a potent inhibitor to insulin, amyloid-beta and lysozyme fibrillation."
             }

@@ -11,6 +11,7 @@
   <title>Home</title>
 
   <link rel="stylesheet" href="./main.css">
+  <link rel="stylesheet" href="../main.css">
 </head>
 <body>
   
@@ -45,24 +46,18 @@
     </div>
   </div>
 
-    <div style="height: 12vh;"></div>
+    <div style="height: 16vh;"></div>
 
-    <div class="newsContainer">
-      <div class="imgcontainer">
-        <img src="../../images/people/current/sanu 2.jpeg" alt="" style="width:400px">
-      </div>
-      <div class="news-content">
-        <div class="news-title">
-            <h1>Mr. Sanu Sar joins our lab. Welcome!</h1>
-        </div>
-        <div class="news-date">
-            <h3>20th Jan, 2022</h3>
-        </div>
-        <div style="height: 4vh;"></div>
-        <div class="news-text">
-          <p>Mr. Sanu Sar joins as a DST-INSPIRE Doctoral Student after completing his MSc from University of Kalyani.</p>
-        </div>
-      </div>
+    <div class="newsContainer2">
+      <!-- the sected news will render here -->
+    </div>
+
+    <div style="height: 16vh;"></div>
+    <div style="text-align:center">
+      <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest</h1>
+    </div>
+
+    <div class="moreNews newsContainer" id="featured">
     </div>
 
     <script>
@@ -76,26 +71,47 @@
 
         console.log(news);
         
-        // let newsContainer = document.querySelector(".newsContainer");
-        // newsContainer.innerHTML = `
-        // <div class="news">
-        //     <div class="news-header">
-        //         <div class="news-title">
-        //             <h1>${news.title}</h1>
-        //         </div>
-        //         <div class="news-date">
-        //             <h3>${news.date}</h3>
-        //         </div>
-        //     </div>
-        //     <div class="news-content">
-        //         <div class="news-image">
-        //             <img src="../${news.image}" alt="" style="width:400px">
-        //         </div>
-        //         <div class="news-text">
-        //             <p>${news.description}</p>
-        //         </div>
-        //     </div>
-        //     `
+        let newsContainer2 = document.querySelector(".newsContainer2");
+        newsContainer2.innerHTML = `
+          <div class="imgcontainer" style="width: 50%;display: flex;justify-content: center;">
+            <img src="../${news.image}" alt="" style="width:400px">
+          </div>
+          <div class="news-content" style="width: 50%;display: flex;justify-content: flex-start;">
+            <div style="width: 80%;">
+              <div class="news-title">
+                  <h1>${news.title}</h1>
+              </div>
+              <div class="news-date">
+                  <h3>${news.date}</h3>
+              </div>
+              <div style="height: 4vh;"></div>
+              <div class="news-text">
+                <p>${news.description}</p>
+              </div>
+            </div>
+          </div>
+      `
+
+        let featuredNews = data.news;
+        let newsContainer = document.getElementById("featured");
+
+        let newsList = [];
+        for(let i = 0; i < 3; i++) {
+          newsList.push(`
+            <div class="news">
+              <div class="news-image-container">
+                <img class="newsImage" src="../../${featuredNews.newsList[i].image}" alt="" srcset="">
+              </div>
+              <div class="news-text-container">
+                <p class="news-heading">${featuredNews.newsList[i].title}</p>
+                <p class="news-date">${featuredNews.newsList[i].date}</p>
+                <p class="details">${featuredNews.newsList[i].description.substring(0,50)}...</p>
+              </div>
+            </div>
+          `);
+        }
+
+        newsContainer.innerHTML = newsList.join("");
         
       })
 

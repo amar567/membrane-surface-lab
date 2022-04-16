@@ -53,30 +53,28 @@
     <script>
       
         let json = $.getJSON("../content.json", function(data) {
-        let publications = data.publications;
+        let research = data.research;
         let newsContainer = document.getElementById("pubContainer");
         
-        console.log(publications);
+        console.log(research);
 
-        let publicationList = [];
-        for(let i = 0; i < publications.publicationList.length; i++) {
-            publicationList.push(`
-            <div class="publication" id="${i}">
-              <img src="${publications.publicationList[i].image}" alt="" class="pubImg">
+        let researchTopics = [];
+        for(let i = 0; i < research.researchTopics.length; i++) {
+            researchTopics.push(`
+            <div class="publication">
+              <img src="${research.researchTopics[i].image}" alt="" class="pubImg">
               <div class="publicationLeft">
-                <h2>${publications.publicationList[i].title}</h2>
+                <h2>${research.researchTopics[i].title}</h2>
                 <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
-                  <h3>${publications.publicationList[i].date}</h3>
-                  <div style="width: 10px;"></div>
-                  <a href="${publications.publicationList[i].link}" target="_blank" rel="noopener noreferrer">
-                    <button class="pubButton" type="button">View</button>
-                  </a>
+                  <p>
+                    ${research.researchTopics[i].discription}
+                  </p>
                 </div>
               </div>
-            </div>              
+            </div>            
           `);
         }
-        newsContainer.innerHTML = publicationList.join("");
+        newsContainer.innerHTML = researchTopics.join("");
         
       })
       

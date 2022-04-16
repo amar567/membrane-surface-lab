@@ -1,0 +1,40 @@
+.pubContainer{
+    width:72vw ;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.publication{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.publicationLeft{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+align-content: center;}
+
+.pubImg{
+    width:300px
+}
+
+.pubButton{
+    width:100px;
+    height:30px;
+    background-color: #00bfff;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
