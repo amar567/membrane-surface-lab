@@ -276,34 +276,31 @@
                 "DOI":"doi/goes/here"
             },
             {
+                "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.  R. Mandal, K. Mohanty, S. Mandal, S. De Sarkar* & P. K Tarafdar*. Chemical Communications.",
+                "image":"../images/publication/raki sept.png",
+                "date":"15th Sept, 2021",
+                "link":"https://doi.org/10.1039/D1CC04525C",
+                "DOI":"doi/goes/here"
+            },
+            {
                 "title":"Microenvironment and pKa Perturbation of Aminoacyl-tRNA Guided the Selection of Cationic Amino Acids. B. Hazra, M. Prasad, R. Roy, P. K. Tarafdar*. Organic & Biomolecular Chemistry.",
                 "image":"../images/publication/bibhas aug.png",
                 "date":"16th Aug, 2021",
                 "link":"https://doi.org/10.1039/D1OB00798J",
                 "DOI":"doi/goes/here"
-            },{
-                "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.  R. Mandal, K. Mohanty, S. Mandal, S. De Sarkar* & P. K Tarafdar*. Chemical Communications.",
-                "image":"../images/publication/soumav sept.webp",
-                "date":"27th Sept, 2021",
-                "link":"https://doi.org/10.1002/asia.202100965",
+            },
+            {
+                "title":"Translation of Mycobacterium Survival Strategy to Develop a Lipo‐peptide based Fusion Inhibitor. A. Sardar, A. Lahiri, M. Kamble, A. I. Mallick* and P. K. Tarafdar*. Angewandte Chemie International Edition. ",
+                "image":"../images/publication/avijit nov.jpg",
+                "date":"26th Nov, 2020",
+                "link":"https://doi.org/10.1002/anie.202013848",
                 "DOI":"doi/goes/here"
-            },{
-                "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation. S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*. Chemistry — An Asian Journal.",
-                "image":"../images/publication/soumav sept.webp",
-                "date":"27th Sept, 2021",
-                "link":"https://doi.org/10.1002/asia.202100965",
-                "DOI":"doi/goes/here"
-            },{
-                "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation. S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*. Chemistry — An Asian Journal.",
-                "image":"../images/publication/soumav sept.webp",
-                "date":"27th Sept, 2021",
-                "link":"https://doi.org/10.1002/asia.202100965",
-                "DOI":"doi/goes/here"
-            },{
-                "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation. S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*. Chemistry — An Asian Journal.",
-                "image":"../images/publication/soumav sept.webp",
-                "date":"27th Sept, 2021",
-                "link":"https://doi.org/10.1002/asia.202100965",
+            },
+            {
+                "title":"A headgroup linker perturbs pKa via acyl chain migration: designing base-labile supramolecular assemblies. A. Sardar, N. Rout, S. Nath, M. Prasad & P. K Tarafdar*. Chemical Communications.",
+                "image":"../images/publication/cc avijit.png",
+                "date":"29th March, 2018",
+                "link":"https://doi.org/10.1039/C8CC00776D",
                 "DOI":"doi/goes/here"
             }
 
