@@ -45,33 +45,50 @@
     </div>
   </div>
 
-    <div style="height: 16vh;"></div>
+    <div style="height: 10vh;"></div>
     
-    <div class="pubContainer" id="pubContainer">
-        
-    </div>
+    <h1 style="border: ;padding: 3vh 0;
+    letter-spacing: 0.1em;
+    background:#f4f4f4;width: 100%;text-align:center;
+    font-weight:300;
+    font-size: 3rem;
+    text-align: center;
+    ">AT IISER KOLKATA</h1>
+    <div class="pubContainer" id="pubContainer"></div>
+
+    <div style="height: 8vh;"></div>
+
+    <h1 style="border: ;padding: 3vh 0;
+    letter-spacing: 0.1em;
+    background:#f4f4f4;width: 100%;text-align:center;
+    font-weight:300;
+    font-size: 3rem;
+    text-align: center;
+    ">BEFORE IISER KOLKATA</h1>
+    <div class="pubContainer" id="pubContainer2"></div>
 
     <script>
       
         let json = $.getJSON("../content.json", function(data) {
         let publications = data.publications;
         let newsContainer = document.getElementById("pubContainer");
+        let newsContainer2 = document.getElementById("pubContainer2");
         
         console.log(publications);
 
         let publicationList = [];
-        for(let i = 0; i < publications.publicationList.length; i++) {
+        for(let i = 0; i < publications.publicationListAtIISER.length; i++) {
             publicationList.unshift(`
             <div class="publication" id="${i}">
-              <img src="${publications.publicationList[i].image}" alt="" class="pubImg" style="padding:20px;">
+              <img src="${publications.publicationListAtIISER[i].image}" alt="" class="pubImg" style="padding:20px;">
               <div class="publicationLeft">
-                <h2 style="font-family: 'Tinos', serif;margin:0.83em 0 0.36em 0;">${publications.publicationList[i].title}</h2>
-                <h2 style="font-family: 'Tinos', serif;font-size:18px;line-height: 0em;">${publications.publicationList[i].authors}</h2>
-                <h2 style="font-family: 'Tinos', serif;font-size:22px;line-height: 0em;"><i>${publications.publicationList[i].journal}</i></h2>
+                <h2 style="font-family: 'Tinos', serif;margin:0.83em 0 0.36em 0;">${publications.publicationListAtIISER[i].title}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:18px;line-height: 0em;">${publications.publicationListAtIISER[i].authors}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:22px;line-height: 0em;"><i>${publications.publicationListAtIISER[i].journal}</i></h2>
                 <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
-                  <h3>${publications.publicationList[i].date}</h3>
+                  <h3>${publications.publicationListAtIISER[i].date}</h3>
                   <div style="width: 10px;"></div>
-                  <a href="${publications.publicationList[i].link}" target="_blank" rel="noopener noreferrer">
+                  <a href="${publications.publicationListAtIISER[i].link}" target="_blank" rel="noopener noreferrer">
                     <button class="pubButton" type="button">View</button>
                   </a>
                 </div>
@@ -80,6 +97,28 @@
           `);
         }
         newsContainer.innerHTML = publicationList.join("");
+
+        let publicationList2 = [];
+        for(let i = 0; i < publications.publicationBeforeIISER.length; i++) {
+            publicationList2.unshift(`
+            <div class="publication" id="${i}">
+              <img src="${publications.publicationBeforeIISER[i].image}" alt="" class="pubImg" style="padding:20px;">
+              <div class="publicationLeft">
+                <h2 style="font-family: 'Tinos', serif;margin:0.83em 0 0.36em 0;">${publications.publicationBeforeIISER[i].title}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:18px;line-height: 0em;">${publications.publicationBeforeIISER[i].authors}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:22px;line-height: 0em;"><i>${publications.publicationBeforeIISER[i].journal}</i></h2>
+                <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
+                  <h3>${publications.publicationBeforeIISER[i].date}</h3>
+                  <div style="width: 10px;"></div>
+                  <a href="${publications.publicationBeforeIISER[i].link}" target="_blank" rel="noopener noreferrer">
+                    <button class="pubButton" type="button">View</button>
+                  </a>
+                </div>
+              </div>
+            </div>              
+          `);
+        }
+        newsContainer2.innerHTML = publicationList2.join("");
         
       })
       
