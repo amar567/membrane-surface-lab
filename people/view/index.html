@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
+  <link href="./../../styles.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <title>Home</title>
+
+  <link rel="stylesheet" href="./main.css">
+  <link rel="stylesheet" href="../main.css">
+</head>
+<body>
+  
+  <div class="nav" id="navbar">
+    <input type="checkbox" id="nav-check">
+    <div class="nav-header">
+      <div class="nav-title">
+        <img src="./../../images/logo.svg" alt="" srcset="" style="height: 10vh;">
+        <div style="display: flex;flex-direction: column;height: 10vh;flex-wrap: nowrap;padding: 0 10px;justify-content: flex-end">
+          Department of Chemical Sciences
+          <br>
+          IISER Kolkata
+        </div>
+      </div>
+    </div>
+    <div class="nav-btn">
+      <label for="nav-check">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+    </div>
+    
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/news/">News</a>
+      <a href="/people">People</a>
+      <a href="/research">Research</a>
+      <a href="/publication">Publications</a>
+      <!-- <a href="/gallery">Gallery</a> -->
+      <a href="/contact/">Contact</a>
+    </div>
+  </div>
+
+    <div style="height: 16vh;"></div>
+
+    <!-- <div style="text-align:center">
+      <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest</h1>
+    </div> -->
+
+    <div class="" id="profile" style="margin: 0 5vw 0 5vw;">
+      <h2>name here</h2>
+        <div class="profileContainer">
+        <div style="align-items: center;width:20vw">
+          <img src="/images/tarafdar.png" alt="" class="profilePgPic">
+        </div>
+        <div style="width: 60vw;">
+          <div>
+            <h2>Biography</h2>
+            Dr. Tarafdar studied BSc at Ramakrishna Mission Vidyamandira, Belur. He passed MSc at University of Calcutta having specialization in Organic Chemistry. Later, he was inclined to biological processes and pursued PhD at School of Chemistry, University of Hyderabad under the supervision of Prof. Musti J. Swamy. During postdoctoral research, he worked with Prof. Barry Lentz (former President, Biophysical Society) at University of North Carolina at Chapel Hill, USA and as an Alexander von Humboldt Fellow with Prof. Reinhard Jahn at Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany
+          </div>
+          <div>
+            <h2>Education</h2>
+            B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002
+          </div>
+          <div>
+            <h2>Positions</h2>
+            CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006)
+          </div>
+          <div>
+            <h2>Awards & Distinctions</h2>
+            NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012)
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script>
+        var url_string = window.location.href
+        var url = new URL(url_string);
+
+        let type = url.searchParams.get("type")||'PI'
+        let index = url.searchParams.get("index")||0;
+
+        let json = $.getJSON("../../content.json", function(data) {
+          let people = data.people;
+
+          if (type !== 'PI') {
+            // 
+            if (type === 'doctoralStudents') {
+              document.body.innerHTML = JSON.stringify(people[type][index]);
+            }
+            if (type === 'undergrad') {
+              document.body.innerHTML = JSON.stringify(people[type][index]);
+            }
+            if (type === 'alumni') {
+              document.body.innerHTML = JSON.stringify(people[type][index]);
+            }
+          } else {
+            // document.getElementById('profile').innerHTML = `
+            //   ${JSON.stringify(people[type])}
+            // `
+          }
+
+        })
+        
+
+      var prevScrollpos = window.pageYOffset;
+      window.onscroll = function() {
+        var currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+          document.getElementById("navbar").style.top = "0";
+        } else {
+          document.getElementById("navbar").style.top = "-13vh";
+        }
+        prevScrollpos = currentScrollPos;
+      }
+    </script>
+  </body>
+  </html>

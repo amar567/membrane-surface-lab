@@ -17,9 +17,10 @@
         "education":[
             "B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002.",
             "M.Sc. (Chemistry, Organic Chemistry Specialization), University of Calcutta, India, 2004.",
-            "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010."
+            "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010. || Guide - Prof. Musti J. Swamy",
+            "Post Doc (University of North Carolina at Chapel Hill.) || Guide - Prof. Barry Lentz"
         ],
-        "employment":[
+        "positions":[
             "CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006).",
             "CSIR-SRF, School of Chemistry, University of Hyderabad, India, (2006-2009).",
             "NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012).",
@@ -27,6 +28,10 @@
             "DST-Inspire Faculty, Saha Institute of Nuclear Physics, Kolkata (2014-15).",
             "Assistant Professor, Indian Institute of Science Education and Research Kolkata (2015-2021).",
             "Associate Professor, Indian Institute of Science Education and Research Kolkata (2021-present)."
+        ],
+        "awards&disnt":[
+            "NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012).",
+            "Alexander von Humboldt Fellow, Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany (2013-2014)."
         ]
     },
     "people":{
@@ -35,9 +40,27 @@
             "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: medium;'>(Associate Professor)</font>",
             "image":"../images/tarafdar.png",
             "twitter":"link to twitter",
-            "email" : "tarafdar@iiserkol.ac.in",
-            "PhD.." : "Guide - Prof. Musti J. Swamy, University of Hyderabad.",
-            "Post Doc" : "Guide - Prof. Barry Lentz, University of North Carolina at Chapel Hill."
+            "email" : "tarafdar@iiserkol.ac.in,srpradip@gmail.com",
+            "bio":"Dr. Tarafdar studied BSc at Ramakrishna Mission Vidyamandira, Belur. He passed MSc at University of Calcutta having specialization in Organic Chemistry. Later, he was inclined to biological processes and pursued PhD at School of Chemistry, University of Hyderabad under the supervision of Prof. Musti J. Swamy. During postdoctoral research, he worked with Prof. Barry Lentz (former President, Biophysical Society) at University of North Carolina at Chapel Hill, USA and as an Alexander von Humboldt Fellow with Prof. Reinhard Jahn at Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany",
+            "education":[
+                "B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002.",
+                "M.Sc. (Chemistry, Organic Chemistry Specialization), University of Calcutta, India, 2004.",
+                "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010. || Guide - Prof. Musti J. Swamy",
+                "Post Doc (University of North Carolina at Chapel Hill.) || Guide - Prof. Barry Lentz"
+            ],
+            "positions":[
+                "CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006).",
+                "CSIR-SRF, School of Chemistry, University of Hyderabad, India, (2006-2009).",
+                "NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012).",
+                "Alexander von Humboldt Fellow, Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany (2013-2014).",
+                "DST-Inspire Faculty, Saha Institute of Nuclear Physics, Kolkata (2014-15).",
+                "Assistant Professor, Indian Institute of Science Education and Research Kolkata (2015-2021).",
+                "Associate Professor, Indian Institute of Science Education and Research Kolkata (2021-present)."
+            ],
+            "awards&disnt":[
+                "NIH Post-doctoral Fellow, University of North Carolina at Chapel Hill, USA (2010-2012).",
+                "Alexander von Humboldt Fellow, Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany (2013-2014)."
+            ]
         },
         "doctoralStudents": [
             {
@@ -262,70 +285,77 @@
         "heading": "Publications",
         "publicationList":[
             {
-                "title":"Controlling the Membrane Perturbation by Tuning Charge Variable Cholate-Based Macromolecules. S. Sahoo, B. Hazra, P. K. Tarafdar*, P. De*. ACS Applied Polymer Materials.",
+                "title":"Controlling the Membrane Perturbation by Tuning Charge Variable Cholate-Based Macromolecules.",
+                "authors":"S. Sahoo, B. Hazra, P. K. Tarafdar*, P. De*",
+                "journal":"ACS Applied Polymer Materials",
                 "image":"../images/publication/bibhas dec.jpeg",
                 "date":"31st Dec, 2021",
                 "link":"https://doi.org/10.1021/acsapm.1c01727",
                 "DOI":""
             },
             {
-                "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation. S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*. Chemistry — An Asian Journal.",
+                "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation.",
+                "authors":"S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*",
+                "journal":"Chemistry — An Asian Journal",
                 "image":"../images/publication/soumav sept.webp",
                 "date":"27th Sept, 2021",
                 "link":"https://doi.org/10.1002/asia.202100965",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.  R. Mandal, K. Mohanty, S. Mandal, S. De Sarkar* & P. K Tarafdar*. Chemical Communications.",
+                "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.",
+                "authors":"R. Mandal, K. Mohanty, S. Mandal, S. De Sarkar* & P. K Tarafdar*",
+                "journal":"Chemical Communications",
                 "image":"../images/publication/raki sept.png",
                 "date":"15th Sept, 2021",
                 "link":"https://doi.org/10.1039/D1CC04525C",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"Microenvironment and pKa Perturbation of Aminoacyl-tRNA Guided the Selection of Cationic Amino Acids. B. Hazra, M. Prasad, R. Roy, P. K. Tarafdar*. Organic & Biomolecular Chemistry.",
+                "title":"Microenvironment and pKa Perturbation of Aminoacyl-tRNA Guided the Selection of Cationic Amino Acids.",
+                "authors":"B. Hazra, M. Prasad, R. Roy, P. K. Tarafdar*",
+                "journal":"Organic & Biomolecular Chemistry",
                 "image":"../images/publication/bibhas aug.png",
                 "date":"16th Aug, 2021",
                 "link":"https://doi.org/10.1039/D1OB00798J",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"Translation of Mycobacterium Survival Strategy to Develop a Lipo‐peptide based Fusion Inhibitor. A. Sardar, A. Lahiri, M. Kamble, A. I. Mallick* and P. K. Tarafdar*. Angewandte Chemie International Edition. ",
+                "title":"Translation of Mycobacterium Survival Strategy to Develop a Lipo-peptide based Fusion Inhibitor. ",
+                "authors":"A. Sardar, A. Lahiri, M. Kamble, A. I. Mallick* and P. K. Tarafdar**",
+                "journal":"Angewandte Chemie International EditionMaterials",
                 "image":"../images/publication/avijit nov.jpg",
                 "date":"26th Nov, 2020",
                 "link":"https://doi.org/10.1002/anie.202013848",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"Structure‐activity relationship of heme and its analogues in membrane damage and inhibition of fusion. D. Das, P. K. Tarafdar* and A. Chakraborti*. FEBS Letters.",
+                "title":"Structure-activity relationship of heme and its analogues in membrane damage and inhibition of fusion.",
+                "authors":"D. Das, P. K. Tarafdar* and A. Chakraborti*",
+                "journal":"FEBS Letters",
                 "image":"../images/publication/febs.png",
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/1873-3468.13165",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"A headgroup linker perturbs pKa via acyl chain migration: designing base-labile supramolecular assemblies. A. Sardar, N. Rout, S. Nath, M. Prasad & P. K Tarafdar*. Chemical Communications.",
+                "title":"A headgroup linker perturbs pKa via acyl chain migration: designing base-labile supramolecular assemblies.",
+                "authors":"A. Sardar, N. Rout, S. Nath, M. Prasad & P. K Tarafdar*",
+                "journal":"Chemical Communications",
                 "image":"../images/publication/cc avijit.png",
                 "date":"29th March, 2018",
                 "link":"https://doi.org/10.1039/C8CC00776D",
                 "DOI":"doi/goes/here"
             },
             {
-                "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope. K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar. Eur. J. Org. Chem.",
-                "image":"../images/publication/febs.png",
-                "date":"20th June, 2018",
-                "link":"https://doi.org/10.1002/1873-3468.13165",
-                "DOI":"doi/goes/here"
-            },
-            {
-                "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope. K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar. Eur. J. Org. Chem.",
+                "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                "journal":"Eur. J. Org. Chem",
                 "image":"../images/publication/febs.png",
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/1873-3468.13165",
                 "DOI":"doi/goes/here"
             }
-            
-
         ]
     },
     "research":{

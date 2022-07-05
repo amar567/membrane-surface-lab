@@ -102,7 +102,12 @@
     </div>
   </main>
   <script type="text/javascript">
+
     let json = $.getJSON("../content.json", function(data) {
+
+      const view = (type,i)=>{
+        window.location.assign(`/people/view/?type=${type}&index=${i}`);
+      }
       
       let people = data.people;
 
@@ -127,9 +132,11 @@
                   <img src="./../images/twitter.svg" alt="" srcset="" style="height: 4rem;">
                 </a>
               </div>
-              <button class="profile-btn">
-                View
-              </button>
+              <a href="/people/view/?type=PI&index=0">
+                <button class="profile-btn">
+                  View
+                </button>
+              </a>
             </div>
           </div>
         `;
@@ -152,9 +159,11 @@
                   <img src="./../images/twitter.svg" alt="" srcset="" style="height: 4rem;">
                 </a>
               </div>
-              <button class="profile-btn">
-                View
-              </button>
+              <a href="/people/view/?type=doctoralStudents&index=${i}">
+                <button class="profile-btn">
+                  View
+                </button>
+              </a>
             </div>
           </div>
         `
@@ -182,10 +191,11 @@
                 <img src="./../images/twitter.svg" alt="" srcset="" style="height: 4rem;">
               </a>
             </div>
-            
+            <a href="/people/view/?type=undergrad&index=${i}">
               <button class="profile-btn">
                 View
               </button>
+            </a>
           </div>
         </div>
         `
@@ -214,10 +224,11 @@
                 <img src="./../images/twitter.svg" alt="" srcset="" style="height: 4rem;">
               </a>
             </div>
-            
+            <a href="/people/view/?type=alumni&index=${i}">
               <button class="profile-btn">
                 View
               </button>
+            </a>
           </div>
         </div>
         `

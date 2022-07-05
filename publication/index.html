@@ -6,8 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
   <link href="./../styles.css" rel="stylesheet">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&family=Tinos:ital@0;1&display=swap" rel="stylesheet">
   <title>Publication | MEMFACE</title>
 
   <link rel="stylesheet" href="./main.css">
@@ -60,11 +61,13 @@
 
         let publicationList = [];
         for(let i = 0; i < publications.publicationList.length; i++) {
-            publicationList.push(`
+            publicationList.unshift(`
             <div class="publication" id="${i}">
-              <img src="${publications.publicationList[i].image}" alt="" class="pubImg">
+              <img src="${publications.publicationList[i].image}" alt="" class="pubImg" style="padding:20px;">
               <div class="publicationLeft">
-                <h2>${publications.publicationList[i].title}</h2>
+                <h2 style="font-family: 'Tinos', serif;margin:0.83em 0 0.36em 0;">${publications.publicationList[i].title}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:18px;line-height: 0em;">${publications.publicationList[i].authors}</h2>
+                <h2 style="font-family: 'Tinos', serif;font-size:22px;line-height: 0em;"><i>${publications.publicationList[i].journal}</i></h2>
                 <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
                   <h3>${publications.publicationList[i].date}</h3>
                   <div style="width: 10px;"></div>
