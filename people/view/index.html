@@ -52,7 +52,7 @@
       <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest</h1>
     </div> -->
 
-    <div class="" id="profile" style="margin: 0 5vw 0 5vw;">
+    <div class="" id="profile" style="margin: 0 10vw 0 10vw;">
       
     </div>
 
@@ -78,20 +78,20 @@
               // }
 
               document.getElementById('profile').innerHTML = `
-                <h1>${people[type][index].name}</h1>
                 <div class="profileContainer">
-                  <div style="align-items: center;width:20vw">
+                  <div style="display:flex;justify-content: center;width:30vw">
                     <img src="../${people[type][index].image}" alt="" class="profilePgPic">
                   </div>
-                  <div style="width: 60vw;">
+                  <div style="width: 50vw;">
+                    <h1>${people[type][index].name.toUpperCase()}</h1>
                     <div>
-                      <h2>Education</h2>
+                      <h2>EDUCATION</h2>
                       <b>B.Sc.</b>: ${people[type][index].bsc}
                       <br>
                       <b>M.Sc.</b>: ${people[type][index].msc}
                     </div>
                     <div>
-                      <h2>Research Area</h2>
+                      <h2>RESEARCH AREA</h2>
                       ${people[type][index].researchArea}
                     </div>
                   </div>
@@ -100,12 +100,12 @@
             }
             if (type === 'undergrad') {
               document.getElementById('profile').innerHTML = `
-                <h1>${people[type][index].name}</h1>
                 <div class="profileContainer">
-                  <div style="align-items: center;width:20vw">
+                  <div style="display:flex;justify-content: center;width:30vw">
                     <img src="../${people[type][index].image}" alt="" class="profilePgPic">
                   </div>
-                  <div style="width: 60vw;">
+                  <div style="width: 50vw;">
+                    <h1>${people[type][index].name.toUpperCase()}</h1>
                     <div>
                       <h2>Research Area</h2>
                       ${people[type][index].researchArea}
@@ -116,12 +116,12 @@
             }
             if (type === 'alumni') {
               document.getElementById('profile').innerHTML = `
-                <h1>${people[type][index].name}</h1>
                 <div class="profileContainer">
-                  <div style="align-items: center;width:20vw">
+                  <div style="display:flex;justify-content: center;width:30vw">
                     <img src="../${people[type][index].image}" alt="" class="profilePgPic">
                   </div>
-                  <div style="width: 60vw;">
+                  <div style="width: 50vw;">
+                    
                     <div>
                       <h2>Current Position</h2>
                       ${people[type][index].currentPosition}
@@ -153,26 +153,26 @@
             }
 
             document.getElementById('profile').innerHTML = `
-            <h1>${people[type].name}</h1>
             <div class="profileContainer">
-              <div style="align-items: center;width:20vw">
+              <div style="display:flex;justify-content: center;width:30vw">
                 <img src="../${people[type].image}" alt="" class="profilePgPic">
               </div>
-              <div style="width: 60vw;">
+              <div style="width: 50vw;">
+                <h1>${people[type].name.toUpperCase()}</h1>
                 <div style="word-spacing: 0.3em;">
-                  <h2>Biography</h2>
+                  <h2>BIOGRAPHY</h2>
                   ${people[type].bio}
                 </div>
                 <div>
-                  <h2>Education</h2>
+                  <h2>EDUCATION</h2>
                   ${Education.join('')}
                 </div>
                 <div>
-                  <h2>Positions</h2>
+                  <h2>POSITIONS</h2>
                   ${Positions.join('')}
                 </div>
                 <div>
-                  <h2>Awards & Distinctions</h2>
+                  <h2>AWARDS & DISTINCTIONS</h2>
                   ${Awards.join('')}
                 </div>
               </div>
