@@ -429,10 +429,7 @@
                 "date":"29th March, 2018",
                 "link":"https://doi.org/10.1039/C8CC00776D",
                 "DOI":"doi/goes/here"
-            }         
-        ],
-        "publicationBeforeIISER":[
-            
+            },
             {
                 "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                 "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
@@ -441,7 +438,9 @@
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/ejoc.201701306",
                 "DOI":"doi/goes/here"
-            },
+            }  
+        ],
+        "publicationBeforeIISER":[
             {
                 "title":"Phosphatidylserine-Dependent Catalysis of Stalk and Pore Formation by Synaptobrevin JMR-TMD Peptide.",
                 "authors":"P. K. Tarafdar, H. Chakraborty, M. J. Bruno & B. R. Lentz*",
