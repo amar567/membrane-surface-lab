@@ -451,10 +451,28 @@
             {
                 "title":"Oligomerization, Conformational Stability and Thermal Unfolding of Harpin, HrpZPss and Its Hypersensitive Response-Inducing C-Terminal Fragment, C-214-HrpZPss.",
                 "authors":"P. K. Tarafdar, V. L. Vasudev, R. S. Sankhala, P. Purushotham, A. R. Podile & M. J. Swamy*",
-                "journal":" Plos One",
+                "journal":"Plos One",
                 "image":"../images/publication/plos.png",
                 "date":"12th Dec, 2014",
                 "link":"https://doi.org/10.1371/journal.pone.0109871",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Wild-Type and Mutant Hemagglutinin Fusion Peptides Alter Bilayer Structure as Well as Kinetics and Activation Thermodynamics of Stalk and Pore Formation Differently: Mechanistic Implications.",
+                "authors":"H. Chakraborty, P. K. Tarafdar, D. G. Klapper & B. R. Lentz*",
+                "journal":"Biophysical Journal",
+                "image":"../images/publication/biophy.png",
+                "date":"3rd Dec, 2013",
+                "link":"https://doi.org/10.1016/j.bpj.2013.10.010",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"A Novel Assay to Detect Fusion Pore Formation: Implication for Fusion Mechanism.",
+                "authors":"H. Chakraborty, P. K. Tarafdar & B. R. Lentz*",
+                "journal":"Biochemistry",
+                "image":"../images/publication/biochem.jpeg",
+                "date":"28th Oct, 2013",
+                "link":"https://doi.org/10.1021/bi401369j",
                 "DOI":"doi/goes/here"
             }
             
