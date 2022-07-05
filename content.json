@@ -506,12 +506,21 @@
                 "DOI":"doi/goes/here"
             },
             {
-                "title":" Phosphatidylserine Inhibits and Calcium Promotes Model Membrane Fusion.",
+                "title":"Phosphatidylserine Inhibits and Calcium Promotes Model Membrane Fusion.",
                 "authors":"P. K. Tarafdar, H. Chakraborty, S. M. Dennison & B. R. Lentz*",
                 "journal":"Biophysical Journal",
                 "image":"../images/publication/biophy.png",
                 "date":"7th Nov, 2012",
                 "link":"https://doi.org/10.1016/j.bpj.2012.09.030",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Activation thermodynamics of poly(ethylene glycol)-mediated model membrane fusion support mechanistic models of stalk and pore formation.",
+                "authors":" H. Chakraborty, P. K. Tarafdar, M. J. Bruno, T. Sengupta & B. R. Lentz*",
+                "journal":"Biophysical Journal",
+                "image":"../images/publication/biophy.png",
+                "date":"20th June, 2012",
+                "link":"https://doi.org/10.1016/j.bpj.2012.04.053",
                 "DOI":"doi/goes/here"
             }
         ]
