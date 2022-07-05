@@ -71,6 +71,12 @@
           if (type !== 'PI') {
             // 
             if (type === 'doctoralStudents') {
+
+              // let publications = []
+              // for (let i = 0; i < people[type][index].publications.length; i++) {
+              //   publications.push(`<li>${people[type].publications[i]}</li>`); 
+              // }
+
               document.getElementById('profile').innerHTML = `
                 <h1>${people[type][index].name}</h1>
                 <div class="profileContainer">
@@ -128,21 +134,22 @@
                 </div>
                 `
             }
-          } else {
+          } 
+          else {
 
             let Education = []
             for (let i = 0; i < people[type].education.length; i++) {
-              Education.push(`<p>${people[type].education[i]}</p>`); 
+              Education.unshift(`<p>${people[type].education[i]}</p>`); 
             }
 
             let Positions = []
-            for (let i = 0; i < people[type].education.length; i++) {
-              Positions.push(`<p>${people[type].education[i]}</p>`); 
+            for (let i = 0; i < people[type].positions.length; i++) {
+              Positions.unshift(`<p>${people[type].positions[i]}</p>`); 
             }
 
             let Awards = []
-            for (let i = 0; i < people[type].education.length; i++) {
-              Awards.push(`<p>${people[type].education[i]}</p>`); 
+            for (let i = 0; i < people[type]['awards&disnt'].length; i++) {
+              Awards.unshift(`<p>${people[type]['awards&disnt'][i]}</p>`); 
             }
 
             document.getElementById('profile').innerHTML = `
@@ -152,7 +159,7 @@
                 <img src="../${people[type].image}" alt="" class="profilePgPic">
               </div>
               <div style="width: 60vw;">
-                <div>
+                <div style="word-spacing: 0.3em;">
                   <h2>Biography</h2>
                   ${people[type].bio}
                 </div>
