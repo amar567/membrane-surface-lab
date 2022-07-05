@@ -64,7 +64,7 @@
         },
         "doctoralStudents": [
             {
-                "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(Doctoral Student: 2016-ongoing)</font>",
+                "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/avijit_edited.webp",
                 "twitter":"link to twitter",
@@ -73,7 +73,7 @@
                 "msc" : "Ramakrishna Mission Residential College, Narendrapur"
             },
             {
-                "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(Doctoral Student: 2016-ongoing)</font>",
+                "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/mahesh.webp",
                 "twitter":"link to twitter",
@@ -82,7 +82,7 @@
                 "msc" : "Vinoba Bhave University, Hazaribagh"
             },
             {
-                "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(Doctoral Student: 2017-ongoing)</font>",
+                "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/bibhas 2_edited.webp",
                 "twitter":"@BibhasHazra5",
@@ -91,7 +91,7 @@
                 "msc" : "Vidyasagar University"
             },
             {
-                "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(Doctoral Student: 2017-ongoing)</font>",
+                "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/raki.webp",
                 "twitter":"@rmiiserkol",
@@ -100,7 +100,7 @@
                 "msc" : "Indian Institute of Technology, Delhi"
             },
             {
-                "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>( Doctoral Student: 2019 - Ongoing)</font>",
+                "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/Anoy.jfif",
                 "twitter":"link to twitter",
@@ -109,7 +109,7 @@
                 "msc" : "IISER Kolkata"
             },
             {
-                "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>( Doctoral Student: 2020 - Ongoing)</font>",
+                "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/Nik.jpg",   
                 "twitter":"link to twitter",
@@ -118,7 +118,7 @@
                 "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
             },
             {
-                "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>( Doctoral Student: 2021 - Ongoing)</font>",
+                "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>(2021 - Ongoing)</font>",
                 "researchArea":"xyz",
                 "image":"../images/people/current/sanu.jpeg",   
                 "twitter":"link to twitter",
