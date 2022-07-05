@@ -355,7 +355,27 @@
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/ejoc.201701306",
                 "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Phosphatidylserine-Dependent Catalysis of Stalk and Pore Formation by Synaptobrevin JMR-TMD Peptide.",
+                "authors":"P. K. Tarafdar, H. Chakraborty, M. J. Bruno & B. R. Lentz.",
+                "journal":"Biophysical Journal",
+                "image":"../images/publication/biophy.png",
+                "date":"3rd Nov, 2015",
+                "link":"https://doi.org/10.1016/j.bpj.2015.08.051",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Oligomerization, Conformational Stability and Thermal Unfolding of Harpin, HrpZPss and Its Hypersensitive Response-Inducing C-Terminal Fragment, C-214-HrpZPss.",
+                "authors":"P. K. Tarafdar, V. L. Vasudev, R. S. Sankhala, P. Purushotham, A. R. Podile & M. J. Swamy*.",
+                "journal":" Plos One",
+                "image":"../images/publication/plos.png",
+                "date":"12th Dec, 2014",
+                "link":"https://doi.org/10.1371/journal.pone.0109871",
+                "DOI":"doi/goes/here"
             }
+            
+            
         ]
     },
     "research":{
