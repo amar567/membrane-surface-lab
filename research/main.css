@@ -1,8 +1,10 @@
 .pubContainer{
-    width:72vw ;
+    width:100vw ;
     display: flex;
     flex-direction: column;
     margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .publication{
@@ -10,6 +12,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    width: 72vw;
 }
 
 .publicationLeft{

@@ -84,19 +84,19 @@
       for(let i = 0; i < about.emails.length; i++) {
         emails.push(`<a href="mailto:${about.emails[i]}"><li>${about.emails[i]}</li></a>`)
       }
-      document.getElementById("emails").innerHTML = emails;
+      document.getElementById("emails").innerHTML = emails.join("");
 
       let phoneNumbers = []
       for(let i = 0; i < about.phoneNumbers.length; i++) {
         phoneNumbers.push(`<a href="tel:${about.phoneNumbers[i]}"><li>${about.phoneNumbers[i]}</li></a>`)
       }
-      document.getElementById("phoneNumbers").innerHTML = phoneNumbers;
+      document.getElementById("phoneNumbers").innerHTML = phoneNumbers.join("");
       
       let address = []
       for(let i = 0; i < about.address.length; i++) {
         address.push(`<li>${about.address[i]}</li>`)
       }
-      document.getElementById("Address").innerHTML = address;
+      document.getElementById("Address").innerHTML = address.join("");
 
     });
 
