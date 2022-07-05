@@ -41,7 +41,7 @@
       <a href="/people">People</a>
       <a href="/research">Research</a>
       <a href="/publication">Publications</a>
-      <!-- <a href="/gallery">Gallery</a> -->
+      <a href="/gallery">Gallery</a>
       <a href="/contact/">Contact</a>
     </div>
   </div>
@@ -54,7 +54,7 @@
 
     <div style="height: 16vh;"></div>
     <div style="text-align:center">
-      <h1 style="padding-bottom: 2vh;font-size: 3rem;">Latest</h1>
+      <h1 style="padding-bottom: 2vh;padding: 3vh 0;font-size: 3rem;letter-spacing: 0.1em;background:#efefef;margin:0 0 8vh 0;width: 100%;text-align:center;font-weight:300;">LATEST NEWS</h1>
     </div>
 
     <div class="moreNews newsContainer" id="featured">
@@ -98,7 +98,7 @@
         let newsList = [];
         for(let i = 0; i < 3; i++) {
           newsList.push(`
-            <div class="news">
+            <div class="news" onclick="view(${i})" >
               <div class="news-image-container">
                 <img class="newsImage" src="../../${featuredNews.newsList[i].image}" alt="" srcset="">
               </div>
@@ -124,6 +124,10 @@
           document.getElementById("navbar").style.top = "-13vh";
         }
         prevScrollpos = currentScrollPos;
+      }
+
+      const view = (i)=>{
+        window.location.assign(`/news/view/?index=${i}`);
       }
     </script>
   </body>
