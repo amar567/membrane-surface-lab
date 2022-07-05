@@ -61,17 +61,19 @@
         let researchTopics = [];
         for(let i = 0; i < research.researchTopics.length; i++) {
             researchTopics.push(`
+            <div style="height:4vh"></div>
+            <h1 style="text-align:center;">${research.researchTopics[i].title.toUpperCase()}</h1>
             <div class="publication">
               <img src="${research.researchTopics[i].image}" alt="" class="pubImg">
               <div class="publicationLeft">
-                <h2>${research.researchTopics[i].title}</h2>
                 <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
                   <p>
                     ${research.researchTopics[i].discription}
                   </p>
                 </div>
               </div>
-            </div>            
+            </div>
+            <div style="height:4vh"></div>
           `);
         }
         newsContainer.innerHTML = researchTopics.join("");
