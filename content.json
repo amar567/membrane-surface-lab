@@ -369,7 +369,7 @@
         "publicationList":[
             {
                 "title":"Controlling the Membrane Perturbation by Tuning Charge Variable Cholate-Based Macromolecules.",
-                "authors":"S. Sahoo, B. Hazra, P. K. Tarafdar*, P. De*",
+                "authors":"S. Sahoo^, B. Hazra^, P. K. Tarafdar*, P. De*",
                 "journal":"ACS Applied Polymer Materials",
                 "image":"../images/publication/bibhas dec.jpeg",
                 "date":"31st Dec, 2021",
@@ -387,7 +387,7 @@
             },
             {
                 "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.",
-                "authors":"R. Mandal, K. Mohanty, S. Mandal, S. De Sarkar* & P. K Tarafdar*",
+                "authors":"R. Mandal^, K. Mohanty^, S. Mandal, S. De Sarkar* & P. K Tarafdar*",
                 "journal":"Chemical Communications",
                 "image":"../images/publication/raki sept.png",
                 "date":"15th Sept, 2021",
@@ -492,7 +492,27 @@
                 "date":"2nd Aug, 2013",
                 "link":"https://doi.org/10.1021/jp403964k",
                 "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Structure and Thermotropic Phase Behavior of a Homologous Series of Bioactive N-Acyldopamines.",
+                "authors":"S. T. Reddy^, P. K. Tarafdar^, R. K. Kamlekar & M. J. Swamy*",
+                "journal":"J. Phys. Chem. B.",
+                "image":"../images/publication/jpcb.png",
+                "date":"24th June, 2013",
+                "link":"https://doi.org/10.1021/jp402750m",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":" Phosphatidylserine Inhibits and Calcium Promotes Model Membrane Fusion.",
+                "authors":"P. K. Tarafdar, H. Chakraborty, S. M. Dennison & B. R. Lentz*",
+                "journal":"Biophysical Journal",
+                "image":"../images/publication/biophy.png",
+                "date":"7th Nov, 2012",
+                "link":"https://doi.org/10.1016/j.bpj.2012.09.030",
+                "DOI":"doi/goes/here"
             }
+
+
             
             
         ]
