@@ -1,18 +1,18 @@
 body {
-  overflow-x: hidden;
+  
 }
 
 
 body, html {
   scroll-behavior: smooth;
-  overflow-x: hidden;-ms-overflow-style: none;  /* IE and Edge */
+  /* -ms-overflow-style: none;  IE and Edge */
   scrollbar-width: none;  /* Firefox */
   z-index: 1;
 }
 
 html {
   overflow: scroll;
-  overflow-x: hidden;
+  
   }
   ::-webkit-scrollbar {
   width: 0px;
@@ -167,7 +167,7 @@ body {
     background-color: #ffffffde;
     height: 0px;
     transition: all 0.3s ease-in;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
     top: 12vh;
     left: 0px;
     z-index: 1000;
