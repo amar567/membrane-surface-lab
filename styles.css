@@ -262,10 +262,12 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  border-radius: 16px;
+  border-radius: 0;
   background-color: #ffffffde;
   box-shadow: 0px 2px 6px 2px rgb(0 0 255 / 20%);
   margin-bottom: 6vh;
+  /* padding: 2vh; */
+  /* box-shadow: 0px 1px 2px #888888; */
 }
 
 .card-image-container{
@@ -279,7 +281,7 @@ body {
 .card-image{
   width: 300px;
   height: 300px;
-  border-radius: 16px;
+  border-radius: 0;
 }
 
 .card-text-container{
