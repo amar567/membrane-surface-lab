@@ -515,13 +515,50 @@
             },
             {
                 "title":"Activation thermodynamics of poly(ethylene glycol)-mediated model membrane fusion support mechanistic models of stalk and pore formation.",
-                "authors":" H. Chakraborty, P. K. Tarafdar, M. J. Bruno, T. Sengupta & B. R. Lentz*",
+                "authors":"H. Chakraborty, P. K. Tarafdar, M. J. Bruno, T. Sengupta & B. R. Lentz*",
                 "journal":"Biophysical Journal",
                 "image":"../images/publication/biophy.png",
                 "date":"20th June, 2012",
                 "link":"https://doi.org/10.1016/j.bpj.2012.04.053",
                 "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Non-classical Odd-Even Alternation in Mixed-chain Diacylethanolamines: Implications of Polymorphism.",
+                "authors":"P. K. Tarafdar, S. T. Reddy & M. J. Swamy*",
+                "journal":"Crystal Growth & Design",
+                "image":"../images/publication/crys.png",
+                "date":"24th Feb, 2012",
+                "link":"https://doi.org/10.1021/cg200698t",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Organization and Dynamics of Hippocampal Membranes in a Depth-Dependent Manner: An Electron Spin Resonance Study.",
+                "authors":"P. Singh^, P. K. Tarafdar^, M. J. Swamy* & A. Chattopadhyay",
+                "journal":"J. Phys. Chem. B.",
+                "image":"../images/publication/jpcb.png",
+                "date":"8th Feb, 2012",
+                "link":"https://doi.org/10.1021/jp211485a",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"A Base-triggerable Catanionic Mixed Lipid System: Isothermal Titration Calorimetric and Single-crystal X-ray Diffraction Studies.",
+                "authors":"P. K. Tarafdar, S. T. Reddy & M. J. Swamy*",
+                "journal":"J. Phys. Chem. B.",
+                "image":"../images/publication/jpcb.png",
+                "date":"11th Oct, 2010",
+                "link":"https://doi.org/10.1021/jp104841k",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Equimolar mixtures of lysophosphatidylcholine and O-stearoylethanolamine form bilayers.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"J. Phys. Chem. B.",
+                "image":"../images/publication/soft.png",
+                "date":"29th June, 2010",
+                "link":"https://doi.org/10.1039/C0SM00093K",
+                "DOI":"doi/goes/here"
             }
+            
         ]
     },
     "research":{
