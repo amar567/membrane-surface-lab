@@ -11,7 +11,7 @@
   <title>Home</title>
 
   <link rel="stylesheet" href="./main.css">
-  <link rel="stylesheet" href="../main.css">
+  <!-- <link rel="stylesheet" href="../../news/main.css"> -->
 </head>
 <body>
   
@@ -72,15 +72,16 @@
             // 
             if (type === 'doctoralStudents') {
 
-              // let publications = []
-              // for (let i = 0; i < people[type][index].publications.length; i++) {
-              //   publications.push(`<li>${people[type].publications[i]}</li>`); 
-              // }
+              let publications = []
+              for (let i = 0; i < people[type][index].publications.length; i++) {
+                publications.push(`<a href="${people[type][index].publications[i].link}"><li>${people[type][index].publications[i].title}, <i><b>${people[type][index].publications[i].journal}</b></i></li></a><br/>`); 
+              }
+              console.log(publications);
 
               document.getElementById('profile').innerHTML = `
                 <div class="profileContainer">
                   <div style="display:flex;justify-content: center;width:30vw">
-                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 1px 2px #888888;">
+                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 0px 4px #888888;margin-top:4vh;">
                   </div>
                   <div style="width: 50vw;">
                     <h1>${people[type][index].name.toUpperCase()}</h1>
@@ -93,6 +94,10 @@
                     <div>
                       <h2>RESEARCH AREA</h2>
                       ${people[type][index].researchArea}
+                      </div>
+                      <div>
+                        <h2>PUBLICATIONS</h2>
+                        <ul>${publications.join("")}</ul>  
                     </div>
                   </div>
                 </div>
@@ -102,7 +107,7 @@
               document.getElementById('profile').innerHTML = `
                 <div class="profileContainer">
                   <div style="display:flex;justify-content: center;width:30vw">
-                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 1px 2px #888888;">
+                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 0px 4px #888888;">
                   </div>
                   <div style="width: 50vw;">
                     <h1>${people[type][index].name.toUpperCase()}</h1>
@@ -118,7 +123,7 @@
               document.getElementById('profile').innerHTML = `
                 <div class="profileContainer">
                   <div style="display:flex;justify-content: center;width:30vw">
-                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 1px 2px #888888;">
+                    <img src="../${people[type][index].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 0px 4px #888888;">
                   </div>
                   <div style="width: 50vw;">
                     
@@ -155,7 +160,7 @@
             document.getElementById('profile').innerHTML = `
             <div class="profileContainer">
               <div style="display:flex;justify-content: center;width:30vw">
-                <img src="../${people[type].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 1px 2px #888888;">
+                <img src="../${people[type].image}" alt="" class="profilePgPic" style="padding: 2vh;box-shadow: 0px 0px 4px #888888;">
               </div>
               <div style="width: 50vw;">
                 <h1>${people[type].name.toUpperCase()}</h1>
