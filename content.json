@@ -18,7 +18,8 @@
             "B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002.",
             "M.Sc. (Chemistry, Organic Chemistry Specialization), University of Calcutta, India, 2004.",
             "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010. || Guide - Prof. Musti J. Swamy",
-            "Post Doc (University of North Carolina at Chapel Hill.) || Guide - Prof. Barry Lentz"
+            "Post Doc (University of North Carolina at Chapel Hill.) || Guide - Prof. Barry Lentz",
+            "Post Doc (Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany.) || Guide - Prof. Reinhard Jahn"            
         ],
         "positions":[
             "CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006).",
@@ -46,7 +47,8 @@
                 "B.Sc. (Chemistry Honors), Ramakrishna Mission Vidyamandira, Belur, University of Calcutta, India, 2002.",
                 "M.Sc. (Chemistry, Organic Chemistry Specialization), University of Calcutta, India, 2004.",
                 "Ph.D. (Bioorganic and Biophysical Chemistry), University of Hyderabad, India, 2010. || Guide - Prof. Musti J. Swamy",
-                "Post Doc (University of North Carolina at Chapel Hill.) || Guide - Prof. Barry Lentz"
+                "Post Doc (University of North Carolina at Chapel Hill, USA.) || Guide - Prof. Barry Lentz",
+                "Post Doc (Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany.) || Guide - Prof. Reinhard Jahn"
             ],
             "positions":[
                 "CSIR-JRF, School of Chemistry, University of Hyderabad, India, (2004-2006).",
@@ -501,6 +503,8 @@
             "Ms. Ondrilla Deb - AMITY University, Delhi - Summer 2019",
             "Ms. Pragya Kumari - IISER Kolkata - Summer 2019",
             "Ms. Alokita Chakraborty - Visva-Bharati University - Summer 2020",
+            "Mr. Ashkar M.A. - Madras Christian College - Summer 2020",
+            "Mr. Subhradip Guchait - IIT Ropar - Summer 2020",
             "Mr. Soumajit Gayen - IISER Kolkata - Summer 2021",
             "Ms. Bishvanwesha Panda - IISER Kolkata - Summer 2021",
             "Ms. Soumili Pani - IISER Kolkata - Summer 2021",
@@ -647,7 +651,7 @@
             {
                 "title":"Translation of Mycobacterium Survival Strategy to Develop a Lipo-peptide based Fusion Inhibitor. ",
                 "authors":"A. Sardar, A. Lahiri, M. Kamble, A. I. Mallick* and P. K. Tarafdar*",
-                "journal":"Angewandte Chemie International EditionMaterials",
+                "journal":"Angewandte Chemie International Edition",
                 "image":"./../images/publication/avijit nov.jpg",
                 "date":"26th Nov, 2020",
                 "link":"https://doi.org/10.1002/anie.202013848",
@@ -793,10 +797,64 @@
             {
                 "title":"Equimolar mixtures of lysophosphatidylcholine and O-stearoylethanolamine form bilayers.",
                 "authors":"P. K. Tarafdar & M. J. Swamy*",
-                "journal":"J. Phys. Chem. B.",
+                "journal":"Soft Matter",
                 "image":"./../images/publication/soft.png",
                 "date":"29th June, 2010",
                 "link":"https://doi.org/10.1039/C0SM00093K",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Structure and Phase Behavior of O-Stearoylethanolamine: A Combined Calorimetric, Spectroscopic and X-Ray Diffraction Study.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"Biochim. Biophys. Acta-Biomembranes",
+                "image":"./../images/publication/bba.png",
+                "date":"5th May, 2010",
+                "link":"https://doi.org/10.1016/j.bbamem.2010.01.012",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Structure, Phase Behaviour and Membrane Interactions of N-Acylethanolamines and N-Acylphosphatidylethanolamines.",
+                "authors":"M. J. Swamy*, P. K. Tarafdar & R. K. Kamlekar",
+                "journal":"Chem. Phys. Lipids",
+                "image":"./../images/publication/cpl.png",
+                "date":"15th Jan, 2010",
+                "link":"https://doi.org/10.1016/j.chemphyslip.2010.01.002",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Calorimetric Studies and Crystal Structures of N, O-Diacylethanolamines with Matched Chains.",
+                "authors":"R. K. Kamlekar^, P. K. Tarafdar^ & M. J. Swamy*",
+                "journal":"J. Lipid Research",
+                "image":"./../images/publication/jlr.png",
+                "date":"5th Jan, 2010",
+                "link":"https://doi.org/10.1194/jlr.M900105-JLR200",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Polymorphism in ‘L’ Shaped Lipids: Structure of N-,O-Diacylethanolamines with Mixed acyl chains.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"Chem. Phys. Lipids",
+                "image":"./../images/publication/cpl.png",
+                "date":"25th Aug, 2009",
+                "link":"https://doi.org/10.1016/j.chemphyslip.2009.08.004",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Biophysical Investigations on the Aggregation and Thermal Unfolding of HarpinPss and Identification of Leucine-Zipper-Like Motifs in Harpins.",
+                "authors":"P. K. Tarafdar, V. L. Vasudev, A. Kondreddy, A. R. Podile & M. J. Swamy*",
+                "journal":"Biochim. Biophys. Acta-Proteins and Proteomics",
+                "image":"./../images/publication/bba.png",
+                "date":"7th Aug, 2009",
+                "link":"https://doi.org/10.1016/j.bbapap.2009.07.023",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Differential Scanning Calorimetric Studies on the Interaction of N-Acylethanolamines with Cholesterol.",
+                "authors":"M. Ramakrishnan, P. K. Tarafdar, R. K. Kamlekar & M. J. Swamy*",
+                "journal":"Current Science",
+                "image":"./../images/publication/current.png",
+                "date":"25th July, 2007",
+                "link":"http://www.jstor.org/stable/24099311",
                 "DOI":"doi/goes/here"
             }
             
