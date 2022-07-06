@@ -72,22 +72,22 @@
       <!-- message will be rendered here -->
     </h1>
     <div class="arrow bounce" style="position: absolute;bottom:-75px">
-      <a class="fa fa-arrow-down fa-2x" href="#"></a>
+      <a class="fa fa-arrow-down fa-2x"></a>
     </div>
   </div>
 
   <div class="homepg-content" id="">
     <h1 style="padding: 3vh 0;
     letter-spacing: 0.1em;
-    background:#efefef;margin:0 0 8vh 0;width: 100%;text-align:center;
-    font-weight:300;font-size: 3rem;">Research</h1>
+    background:#dadada;margin:0 0 8vh 0;width: 100%;text-align:center;
+    font-weight:300;font-size: 3rem;"  id="#research">Research</h1>
     <div class="researchcontainer" id="researchcontainer">
       <!-- research topics will be rendered here -->
     </div>
   </div>
 
   <div class="homepg-content" id="homePage">
-    <h1 style="padding: 3vh 0;font-size: 3rem;letter-spacing: 0.1em;background:#efefef;margin:0 0 8vh 0;width: 100%;text-align:center;font-weight:300;">Latest News</h1>
+    <h1 style="padding: 3vh 0;font-size: 3rem;letter-spacing: 0.1em;background:#dadada;margin:0 0 8vh 0;width: 100%;text-align:center;font-weight:300;">Latest News</h1>
     <div class="newsContainer" id="newsContainer">
       <!-- latest news will be rendered here -->
     </div>
@@ -96,7 +96,7 @@
   <div class="homepg-content" id="">
     <h1 style="padding: 3vh 0;
     letter-spacing: 0.1em;
-    background:#efefef;margin:0 0 8vh 0;width: 100%;text-align:center;
+    background:#dadada;margin:0 0 8vh 0;width: 100%;text-align:center;
     font-weight:300;
     font-size: 3rem;
     ">Latest Publications</h1>
@@ -106,10 +106,43 @@
   </div>
 
   <div class="footer_container">
-
+    <div class="footer-div" style="width:41%;">
+      <a href="https://chem.iiserkol.ac.in/">
+        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;">
+      </a>
+    </div>
+    <div style="width: 8vw;"></div>
+    <div class="footer-div" style="width:41%;">
+      <h2>Contact us</h2>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./images/footer icons/mail.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerMail"></div>
+      </div>
+      <br>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./images/footer icons/telephone.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerPhone"></div>
+      </div>
+      <br>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./images/footer icons/location.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerLocation"></div>
+      </div>
+    </div>
   </div>
 
-  <script>
+  <div class="footer_container" style="justify-content: flex-end;padding: 2vh 2vw;color: #5c5c5c;cursor: pointer;" onclick="github()">
+    Made with 🤎 by Amardeepsingh Kushwah & Soumajit Gayen
+    <!-- let the color be less contrasting so the eyes can focus on more relevent info -->
+  </div>
+<script>
+    function github() {
+      window.location.assign('https://github.com/amar567/')
+    }
+
     let json = $.getJSON("./content.json", function(data) {
 
       // homepage hero message
@@ -126,7 +159,7 @@
       let newsList = [];
       for(let i = 0; i < 3; i++) {
         newsList.push(`
-          <div class="news" onclick="view(${i})" style="cursor: pointer;;">
+          <div class="news" onclick="view(${i})" style="cursor: pointer;">
             <div class="news-image-container">
               <img class="newsImage" src="./news/${news.newsList[i].image}" alt="" srcset="">
             </div>
@@ -174,6 +207,19 @@
       }
 
       publicationsContainer.innerHTML = publicationList.join("");
+
+
+      // footer
+      let contact = data.contact
+      for (let i = 0; i < contact.emails.length; i++) {
+        document.getElementById("footerMail").innerHTML += contact.emails[i]+`,<br>`;
+      }
+      for (let i = 0; i < contact.phoneNumbers.length; i++) {
+        document.getElementById("footerPhone").innerHTML += contact.phoneNumbers[i] +`,<br>`;       
+      }
+      for (let i = 0; i < contact.address.length; i++) {
+        document.getElementById("footerLocation").innerHTML += contact.address[i]+`,<br>`;       
+      }
 
     })
 

@@ -46,7 +46,7 @@
   
     <div style="height: 10vh;"></div>
 
-    <h1 style="text-align: center;width: 100%; font-size: 4em;padding: 3vh 0;letter-spacing: 0.1em;background:#efefef;font-weight:300;">
+    <h1 style="text-align: center;width: 100%; font-size: 4em;padding: 3vh 0;letter-spacing: 0.1em;background:#dadada;font-weight:300;">
       LATEST NEWS
     </h1>
 
@@ -56,8 +56,54 @@
         </div>
     </div>
 
-    <script>
+    <div class="footer_container">
+    <div class="footer-div" style="width:41%;">
+      <a href="https://chem.iiserkol.ac.in/">
+        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;">
+      </a>
+    </div>
+    <div style="width: 8vw;"></div>
+    <div class="footer-div" style="width:41%;">
+      <h2>Contact us</h2>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./../images/footer icons/mail.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerMail"></div>
+      </div>
+      <br>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./../images/footer icons/telephone.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerPhone"></div>
+      </div>
+      <br>
+      <div style="display: flex; flex-direction: row; ">
+        <img src="./../images/footer icons/location.svg" alt="">
+        &nbsp;&nbsp;&nbsp;
+        <div id="footerLocation"></div>
+      </div>
+    </div>
+  </div>
+<div class="footer_container" style="justify-content: flex-end;padding: 2vh 2vw;color: #5c5c5c;">
+    Made with 🤎 by 
+    &nbsp;<a href="https://github.com/amar567/">Amardeepsingh Kushwah </a>&nbsp;
+    & Soumajit Gayen
+    <!-- let the color be less contrasting so the eyes can focus on more relevent info -->
+  </div>
+<script>
       let json = $.getJSON("./../content.json", function(data) {
+let contact = data.contact
+      for (let i = 0; i < contact.emails.length; i++) {
+        document.getElementById("footerMail").innerHTML += contact.emails[i]+`,<br>`;
+      }
+      for (let i = 0; i < contact.phoneNumbers.length; i++) {
+        document.getElementById("footerPhone").innerHTML += contact.phoneNumbers[i] +`,<br>`;       
+      }
+      for (let i = 0; i < contact.address.length; i++) {
+        document.getElementById("footerLocation").innerHTML += contact.address[i]+`,<br>`;       
+      }
+
+
         let news = data.news;
         let newsContainer = document.getElementById("newsContainer");
         

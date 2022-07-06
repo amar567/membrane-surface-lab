@@ -7,4 +7,5 @@
 .gallery-img-container{
     display: flex;
     flex-direction: row;
+    padding-bottom: 6vh;
 }
