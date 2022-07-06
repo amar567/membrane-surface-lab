@@ -67,8 +67,24 @@
                 "name": "Mr. Avijit Sardar <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "researchArea":"Development of broad spectrum antivirals using peptidomimetics.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/avijit_edited.webp",
                 "twitter":"link to twitter",
@@ -80,8 +96,24 @@
                 "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "researchArea":"Cationic lipid mediated phosphate templated supramolecular assemblies.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/mahesh.webp",
                 "twitter":"link to twitter",
@@ -93,8 +125,24 @@
                 "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"Prebiotic membrane evolution, Development of polymer-based antibacterials and stimuli responsive materials.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/bibhas 2_edited.webp",
                 "twitter":"@BibhasHazra5",
@@ -106,8 +154,24 @@
                 "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"Membrane transport inspired electrochemical synethetic methodologies in water.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/raki.webp",
                 "twitter":"@rmiiserkol",
@@ -119,8 +183,24 @@
                 "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
                 "researchArea":"Development of novel hydrogels and stimuli responsive soft materials.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/Anoy.jfif",
                 "twitter":"link to twitter",
@@ -132,8 +212,24 @@
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "researchArea":"Development of natural product based broad spectrum antivirals.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/Nik.jpg",   
                 "twitter":"link to twitter",
@@ -145,8 +241,24 @@
                 "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>(2021 - Ongoing)</font>",
                 "researchArea":"Membrane transport inspired electrochemical synethetic methodologies in water.",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/current/sanu.jpeg",   
                 "twitter":"link to twitter",
@@ -160,8 +272,24 @@
                 "name":"Mr. Soumajit Gayen <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
                 "researchArea":"Development of novel strategies against amyloids",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "twitter":"@soumajit_gayen",
                 "email":"sg17ms208@iiserkol.ac.in",
@@ -171,8 +299,24 @@
                 "name":"Ms. Bishvanwesha Panda <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
                 "researchArea":"Elucidating role of lipids in antivirals",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "twitter":"link to twitter",
                 "email":"bp16ms133@iiserkol.ac.in",
@@ -182,8 +326,24 @@
                 "name":"Ms. Debosmita Bhowmick <br> <font style='font-size: medium;'>(4th Year BS-MS)</font>",
                 "researchArea":"Elucidating role of spacer in antivirals",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "twitter":"link to twitter",
                 "email":"db18ms032@iiserkol.ac.in",
@@ -195,8 +355,24 @@
                 "name":"Mr. Soumav Nath <br> <font style='font-size: small;'>(2016 - 2018)</font>",
                 "researchArea":"Exploring Heme analogues as potential amyloid inhibitor",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/alumni/soumav.jpg",
                 "twitter":"link to twitter",
@@ -207,8 +383,24 @@
                 "name":"Mr. Rahul Prakash <br> <font style='font-size: small;'>(2017 - 2019)</font>",
                 "researchArea":"Development of artificial signal transduction system",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/alumni/rahul.jpg",
                 "twitter":"link to twitter",
@@ -219,8 +411,24 @@
                 "name":"Mr. Rajat Roy <br> <font style='font-size: small;'>(2017-2019)</font>",
                 "researchArea":"xyz",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/alumni/rajat.jpg",
                 "twitter":"link to twitter",
@@ -231,8 +439,24 @@
                 "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
                 "researchArea":"xyz",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/alumni/saif.jpg",
                 "twitter":"link to twitter",
@@ -243,8 +467,24 @@
                 "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
                 "researchArea":"xyz",
                 "publications":[
-                    "abcs",
-                    "xyz"
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
                 ],
                 "image":"../images/people/alumni/nilesh.jpg",
                 "twitter":"link to twitter",
