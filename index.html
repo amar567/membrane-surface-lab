@@ -36,13 +36,13 @@
     </div>
     
     <div class="nav-links">
-      <a href="/">Home</a>
-      <a href="/news/">News</a>
-      <a href="/people">People</a>
-      <a href="/research">Research</a>
-      <a href="/publication">Publications</a>
-      <a href="/gallery">Gallery</a>
-      <a href="/contact/">Contact</a>
+      <a href="./">Home</a>
+      <a href="./news/">News</a>
+      <a href="./people">People</a>
+      <a href="./research">Research</a>
+      <a href="./publication">Publications</a>
+      <a href="./gallery">Gallery</a>
+      <a href="./contact/">Contact</a>
     </div>
   </div>
 
@@ -105,7 +105,7 @@
   </div>
 
   <script>
-    let json = $.getJSON("../content.json", function(data) {
+    let json = $.getJSON("./content.json", function(data) {
 
       // homepage hero message
       let home = data.home;

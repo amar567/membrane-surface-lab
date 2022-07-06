@@ -32,13 +32,13 @@
     </div>
     
     <div class="nav-links">
-      <a href="/">Home</a>
-      <a href="/news/">News</a>
-      <a href="/people">People</a>
-      <a href="/research">Research</a>
-      <a href="/publication">Publications</a>
-      <a href="/gallery">Gallery</a>
-      <a href="/contact/">Contact</a>
+      <a href="./../">Home</a>
+      <a href="./../news/">News</a>
+      <a href="./../people">People</a>
+      <a href="./../research">Research</a>
+      <a href="./../publication">Publications</a>
+      <a href="./../gallery">Gallery</a>
+      <a href="./../contact/">Contact</a>
       
     </div>
   </div>
@@ -90,7 +90,7 @@
   </main>
   <script type="text/javascript">
 
-    let json = $.getJSON("../content.json", function(data) {
+    let json = $.getJSON("./../content.json", function(data) {
 
       const view = (type,i)=>{
         window.location.assign(`/people/view/?type=${type}&index=${i}`);
@@ -119,7 +119,7 @@
                   <img src="./../images/twitter.svg" alt="" srcset="" style="height: 3rem;">
                 </a>
               </div>
-              <a href="/people/view/?type=PI&index=0">
+              <a href="./../people/view/?type=PI&index=0">
                 <button class="profile-btn">
                   Profile
                 </button>
@@ -146,7 +146,7 @@
                   <img src="./../images/twitter.svg" alt="" srcset="" style="height: 3rem;">
                 </a>
               </div>
-              <a href="/people/view/?type=doctoralStudents&index=${i}">
+              <a href="./../people/view/?type=doctoralStudents&index=${i}">
                 <button class="profile-btn">
                   Profile
                 </button>
@@ -178,7 +178,7 @@
                 <img src="./../images/twitter.svg" alt="" srcset="" style="height: 3rem;">
               </a>
             </div>
-            <a href="/people/view/?type=undergrad&index=${i}">
+            <a href="./../people/view/?type=undergrad&index=${i}">
               <button class="profile-btn">
                 Profile
               </button>
@@ -211,7 +211,7 @@
                 <img src="./../images/twitter.svg" alt="" srcset="" style="height: 3rem;">
               </a>
             </div>
-            <a href="/people/view/?type=alumni&index=${i}">
+            <a href="./../people/view/?type=alumni&index=${i}">
               <button class="profile-btn">
                 Profile
               </button>
@@ -254,7 +254,7 @@
       }
     
     </script>
-    <!-- <script defer src="../node_modules/swup/dist/swup.min.js"></script>
-    <script defer src="../script.js"></script> -->
+    <!-- <script defer src="./../node_modules/swup/dist/swup.min.js"></script>
+    <script defer src="./../script.js"></script> -->
   </body>
   </html>

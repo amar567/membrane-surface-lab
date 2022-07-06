@@ -33,13 +33,13 @@
     </div>
     
     <div class="nav-links">
-      <a href="/">Home</a>
-      <a href="/news/">News</a>
-      <a href="/people">People</a>
-      <a href="/research">Research</a>
-      <a href="/publication">Publications</a>
-      <a href="/gallery">Gallery</a>
-      <a href="/contact/">Contact</a>
+      <a href="./../">Home</a>
+      <a href="./../news/">News</a>
+      <a href="./../people">People</a>
+      <a href="./../research">Research</a>
+      <a href="./../publication">Publications</a>
+      <a href="./../gallery">Gallery</a>
+      <a href="./../contact/">Contact</a>
     </div>
   </div>
   
@@ -56,7 +56,7 @@
     </div>
 
     <script>
-      let json = $.getJSON("../content.json", function(data) {
+      let json = $.getJSON("./../content.json", function(data) {
         let news = data.news;
         let newsContainer = document.getElementById("newsContainer");
         
@@ -65,7 +65,7 @@
             newsList.push(`
               <div class="news" onclick="view(${i})" >
                 <div class="news-image-container">
-                  <img class="newsImage" src="../news/${news.newsList[i].image}" alt="" srcset="">
+                  <img class="newsImage" src="./../news/${news.newsList[i].image}" alt="" srcset="">
                 </div>
                 <div class="news-text-container">
                   <p class="news-heading">${news.newsList[i].title}</p>

@@ -8,7 +8,7 @@
     },
     "about":{
         "heading": "Dr. Pradip Kr. Tarafdar",
-        "imgSrc": "../images/tarafdar.png",
+        "imgSrc": "./../images/tarafdar.png",
         "bio": "Dr. Tarafdar studied BSc at Ramakrishna Mission Vidyamandira, Belur. He passed MSc at University of Calcutta having specialization in Organic Chemistry. Later, he was inclined to biological processes and pursued PhD at School of Chemistry, University of Hyderabad under the supervision of Prof. Musti J. Swamy. During postdoctoral research, he worked with Prof. Barry Lentz (former President, Biophysical Society) at University of North Carolina at Chapel Hill, USA and as an Alexander von Humboldt Fellow with Prof. Reinhard Jahn at Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany.",
         "emails":[
             "tarafdar@iiserkol.ac.in",
@@ -35,10 +35,10 @@
         ]
     },
     "people":{
-        "groupPhoto":"../images/people/group 2.jpg",
+        "groupPhoto":"./../images/people/group 2.jpg",
         "PI":{
             "name": "Dr. Pradip Kumar Tarafdar <br> <font style='font-size: medium;'>(Associate Professor)</font>",
-            "image":"../images/tarafdar.png",
+            "image":"./../images/tarafdar.png",
             "twitter":"link to twitter",
             "email" : "tarafdar@iiserkol.ac.in,srpradip@gmail.com",
             "bio":"Dr. Tarafdar studied BSc at Ramakrishna Mission Vidyamandira, Belur. He passed MSc at University of Calcutta having specialization in Organic Chemistry. Later, he was inclined to biological processes and pursued PhD at School of Chemistry, University of Hyderabad under the supervision of Prof. Musti J. Swamy. During postdoctoral research, he worked with Prof. Barry Lentz (former President, Biophysical Society) at University of North Carolina at Chapel Hill, USA and as an Alexander von Humboldt Fellow with Prof. Reinhard Jahn at Max-Planck Institute for Biophysical Chemistry, Göttingen, Germany",
@@ -71,7 +71,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -80,13 +80,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/avijit_edited.webp",
                 "twitter":"link to twitter",
                 "email" : "as16rs019@iiserkol.ac.in",
                 "bsc" : "St. Paul's Cathedral Mission College",
@@ -100,7 +100,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -109,13 +109,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/mahesh.webp",
+                "image":"./../images/people/current/mahesh.webp",
                 "twitter":"link to twitter",
                 "email" : "mp16rs063@iiserkol.ac.in",
                 "bsc" : "P.K.Roy Memorial College, Dhanbad",
@@ -129,7 +129,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -138,13 +138,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/bibhas 2_edited.webp",
+                "image":"./../images/people/current/bibhas 2_edited.webp",
                 "twitter":"@BibhasHazra5",
                 "email" : "bh17rs023@iiserkol.ac.in",
                 "bsc" : "Midnapore College",
@@ -158,7 +158,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -167,13 +167,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/raki.webp",
+                "image":"./../images/people/current/raki.webp",
                 "twitter":"@rmiiserkol",
                 "email" : "rm17rs040@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
@@ -187,7 +187,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -196,13 +196,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/Anoy.jfif",
+                "image":"./../images/people/current/Anoy.jfif",
                 "twitter":"link to twitter",
                 "email" : "am18ip004@iiserkol.ac.in",
                 "bsc" : "Durgapur Govt. College, Burdwan University",
@@ -216,7 +216,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -225,13 +225,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/Nik.jpg",   
+                "image":"./../images/people/current/Nik.jpg",   
                 "twitter":"link to twitter",
                 "email" : "nd20rs021@iiserkol.ac.in",
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
@@ -245,7 +245,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -254,13 +254,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/current/sanu.jpeg",   
+                "image":"./../images/people/current/sanu.jpeg",   
                 "twitter":"link to twitter",
                 "email" : "ss21rs106@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College",
@@ -276,7 +276,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -285,7 +285,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -293,7 +293,7 @@
                 ],
                 "twitter":"@soumajit_gayen",
                 "email":"sg17ms208@iiserkol.ac.in",
-                "image":"../images/people/current/Soumajit.jpg"
+                "image":"./../images/people/current/Soumajit.jpg"
             },
             {
                 "name":"Ms. Bishvanwesha Panda <br> <font style='font-size: medium;'>(5th Year BS-MS)</font>",
@@ -303,7 +303,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -312,7 +312,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -320,7 +320,7 @@
                 ],
                 "twitter":"link to twitter",
                 "email":"bp16ms133@iiserkol.ac.in",
-                "image":"../images/people/current/Bishvanwesha.jpg"
+                "image":"./../images/people/current/Bishvanwesha.jpg"
             },
             {
                 "name":"Ms. Debosmita Bhowmick <br> <font style='font-size: medium;'>(4th Year BS-MS)</font>",
@@ -330,7 +330,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -339,7 +339,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -347,7 +347,7 @@
                 ],
                 "twitter":"link to twitter",
                 "email":"db18ms032@iiserkol.ac.in",
-                "image":"../images/people/current/db.jpeg"
+                "image":"./../images/people/current/db.jpeg"
             }
         ],
         "alumni":[
@@ -359,7 +359,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -368,13 +368,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/alumni/soumav.jpg",
+                "image":"./../images/people/alumni/soumav.jpg",
                 "twitter":"link to twitter",
                 "email":"soumav500nath@gmail.com",
                 "currentPosition":"PhD Student at Heinrich-Heine-Universitat Dusseldorf & Forchungszentrum Julich"
@@ -387,7 +387,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -396,13 +396,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/alumni/rahul.jpg",
+                "image":"./../images/people/alumni/rahul.jpg",
                 "twitter":"link to twitter",
                 "email":"rp14ms034@iiserkol.ac.in; rahulisgenius@gmail.com",
                 "currentPosition":"Graduate Fellow, University of South Carolina, USA"
@@ -415,7 +415,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -424,13 +424,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/alumni/rajat.jpg",
+                "image":"./../images/people/alumni/rajat.jpg",
                 "twitter":"link to twitter",
                 "email":"rajatbdn2012@gmail.com; rr1150@georgetown.edu",
                 "currentPosition":"Graduate Fellow, Georgetown University"
@@ -443,7 +443,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -452,13 +452,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/alumni/saif.jpg",
+                "image":"./../images/people/alumni/saif.jpg",
                 "twitter":"link to twitter",
                 "email":"saifrahman321@gmail.com",
                 "currentPosition":"MBA, Indian Institute of Management Roorkee"
@@ -471,7 +471,7 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
@@ -480,13 +480,13 @@
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                         "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                         "journal":"Eur. J. Org. Chem",
-                        "image":"../images/publication/european.jpg",
+                        "image":"./../images/publication/european.jpg",
                         "date":"20th June, 2018",
                         "link":"https://doi.org/10.1002/ejoc.201701306",
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"../images/people/alumni/nilesh.jpg",
+                "image":"./../images/people/alumni/nilesh.jpg",
                 "twitter":"link to twitter",
                 "email":"",
                 "currentPosition":""
@@ -515,73 +515,73 @@
             
             {
                 "title":"Bishvanwesha gets another PhD. offer from USA. Congratulations!",
-                "image":"../images/people/current/Bishvanwesha.jpg",
+                "image":"./../images/people/current/Bishvanwesha.jpg",
                 "date":"5th April, 2022",
                 "description":"Bishvanwesa gets his second PhD. offer from the University of Arizona, USA for the term of fall 2022."
             },
             {
                 "title":"Soumajit gets another PhD. offer from USA. Congratulations!",
-                "image":"../images/people/current/Soumajit.jpg",
+                "image":"./../images/people/current/Soumajit.jpg",
                 "date":"11th Feb, 2022",
                 "description":"Soumajit gets his second PhD. offer from the University of Massachuesetts Amherst, USA for the term of fall 2022."
             },
             {
                 "title":"Mr. Sanu Sar joins our lab. Welcome!",
-                "image":"../images/people/current/sanu 2.jpeg",
+                "image":"./../images/people/current/sanu 2.jpeg",
                 "date":"20th Jan, 2022",
                 "description":"Mr. Sanu Sar joins as a DST-INSPIRE Doctoral Student: after completing his MSc from University of Kalyani."
             },
             {
                 "title":"Bishvanwesha gets a PhD. offer from USA. Congratulations!",
-                "image":"../images/people/current/Bishvanwesha.jpg",
+                "image":"./../images/people/current/Bishvanwesha.jpg",
                 "date":"20th Jan, 2022",
                 "description":"Bishvanwesha gets a PhD. offer from the University of Michigan Ann Arbor, USA for the term of fall 2022."
             },
             {
                 "title":"Avijit bagged the best presentation award in JNOST XV. Congratulations!",
-                "image":"../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/avijit_edited.webp",
                 "date":"9th Jan, 2022",
                 "description":"Avijit was conferred with the best presentation award at JNOST - The Seminar hosted by University of Hyderabad."
             }
             ,
             {
                 "title":"Our work is accepted in ACS Appl. Polym. Mater.",
-                "image":"../images/publication/bibhas dec.jpeg",
+                "image":"./../images/publication/bibhas dec.jpeg",
                 "date":"31st Dec, 2021",
                 "description":"Bibhas' work on charge variable macromolecules is accepted. Congratulations!"
             }
             ,
             {
                 "title":"Soumajit gets a PhD. offer from USA. Congratulations!",
-                "image":"../images/people/current/Soumajit.jpg",
+                "image":"./../images/people/current/Soumajit.jpg",
                 "date":"22nd Dec, 2021",
                 "description":"Soumajit gets his a PhD. offer from the University of Minnesota Twin Cities, USA for the term of fall 2022."
             }
             ,
             {
                 "title":"Our work is accepted in Chemistry- An Asian Journal.",
-                "image":"../images/publication/soumav sept.webp",
+                "image":"./../images/publication/soumav sept.webp",
                 "date":"27th Sept, 2021",
                 "description":"Soumav's work on inhibition of Insulin Fibrillization using Heme analogs is accepted. Congratulations!"
             }
             ,
             {
                 "title":"Our work is accepted in RSC - Chemical Communications.",
-                "image":"../images/publication/raki sept.png",
+                "image":"./../images/publication/raki sept.png",
                 "date":"15th Sept, 2021",
                 "description":"Raki's work on Membrane transport inspired hydrolysis of non activated ester is accepted. Congratulations!"
             }
             ,
             {
                 "title":"Our work is accepted in RSC - Organic & Biomolecular Chemistry.",
-                "image":"../images/publication/bibhas aug.png",
+                "image":"./../images/publication/bibhas aug.png",
                 "date":"16th Aug, 2021",
                 "description":"Bibhas' work on the microenvironment guided selection of cationic amino acids is accpted. Congratulations!"
             }
             ,
             {
                 "title":"Our work is accepted in Angewandte Chemie International Edition.",
-                "image":"../images/publication/avijit nov.jpg",
+                "image":"./../images/publication/avijit nov.jpg",
                 "date":"26th Nov, 2020",
                 "description":"Avijit's work on Translation of Mycobacterium Survival Strategy to Develop a Lipo-peptide based Fusion Inhibitor is accpted. Congratulations!"
             }
@@ -589,7 +589,7 @@
     },
     "contact":{
         "heading": "Contact Us",
-        "imgSrc": "../images/logo 3.png",
+        "imgSrc": "./../images/logo 3.png",
         "joinUsStatement": "We look for talented and dedicated students to pursue research in the field of Bioorganic Chemistry. Interested students may write to Dr. Pradip Kumar Tarafdar.",
         "emails":[
             "tarafdar@iiserkol.ac.in",
@@ -611,7 +611,7 @@
                 "title":"Controlling the Membrane Perturbation by Tuning Charge Variable Cholate-Based Macromolecules.",
                 "authors":"S. Sahoo^, B. Hazra^, P. K. Tarafdar*, P. De*",
                 "journal":"ACS Applied Polymer Materials",
-                "image":"../images/publication/bibhas dec.jpeg",
+                "image":"./../images/publication/bibhas dec.jpeg",
                 "date":"31st Dec, 2021",
                 "link":"https://doi.org/10.1021/acsapm.1c01727",
                 "DOI":""
@@ -620,7 +620,7 @@
                 "title":"Hydroxy-Porphyrin as an effective, endogenous molecular clamp during early stages of amyloid fibrillation.",
                 "authors":"S. Nath, P. Roy, R. Mandal, R. Roy, Alexander K. Buell, N. Sengupta* & P. K. Tarafdar*",
                 "journal":"Chemistry — An Asian Journal",
-                "image":"../images/publication/soumav sept.webp",
+                "image":"./../images/publication/soumav sept.webp",
                 "date":"27th Sept, 2021",
                 "link":"https://doi.org/10.1002/asia.202100965",
                 "DOI":"doi/goes/here"
@@ -629,7 +629,7 @@
                 "title":"Membrane Transport Inspired Hydrolysis of Non-activated Esters at Near Physiological pH.",
                 "authors":"R. Mandal^, K. Mohanty^, S. Mandal, S. De Sarkar* & P. K Tarafdar*",
                 "journal":"Chemical Communications",
-                "image":"../images/publication/raki sept.png",
+                "image":"./../images/publication/raki sept.png",
                 "date":"15th Sept, 2021",
                 "link":"https://doi.org/10.1039/D1CC04525C",
                 "DOI":"doi/goes/here"
@@ -638,7 +638,7 @@
                 "title":"Microenvironment and pKa Perturbation of Aminoacyl-tRNA Guided the Selection of Cationic Amino Acids.",
                 "authors":"B. Hazra, M. Prasad, R. Roy, P. K. Tarafdar*",
                 "journal":"Organic & Biomolecular Chemistry",
-                "image":"../images/publication/bibhas aug.png",
+                "image":"./../images/publication/bibhas aug.png",
                 "date":"16th Aug, 2021",
                 "link":"https://doi.org/10.1039/D1OB00798J",
                 "DOI":"doi/goes/here"
@@ -647,7 +647,7 @@
                 "title":"Translation of Mycobacterium Survival Strategy to Develop a Lipo-peptide based Fusion Inhibitor. ",
                 "authors":"A. Sardar, A. Lahiri, M. Kamble, A. I. Mallick* and P. K. Tarafdar*",
                 "journal":"Angewandte Chemie International EditionMaterials",
-                "image":"../images/publication/avijit nov.jpg",
+                "image":"./../images/publication/avijit nov.jpg",
                 "date":"26th Nov, 2020",
                 "link":"https://doi.org/10.1002/anie.202013848",
                 "DOI":"doi/goes/here"
@@ -656,7 +656,7 @@
                 "title":"Structure-activity relationship of heme and its analogues in membrane damage and inhibition of fusion.",
                 "authors":"D. Das, P. K. Tarafdar* and A. Chakraborti*",
                 "journal":"FEBS Letters",
-                "image":"../images/publication/febs.png",
+                "image":"./../images/publication/febs.png",
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/1873-3468.13165",
                 "DOI":"doi/goes/here"
@@ -665,7 +665,7 @@
                 "title":"A headgroup linker perturbs pKa via acyl chain migration: designing base-labile supramolecular assemblies.",
                 "authors":"A. Sardar, N. Rout, S. Nath, M. Prasad & P. K Tarafdar*",
                 "journal":"Chemical Communications",
-                "image":"../images/publication/cc avijit.png",
+                "image":"./../images/publication/cc avijit.png",
                 "date":"29th March, 2018",
                 "link":"https://doi.org/10.1039/C8CC00776D",
                 "DOI":"doi/goes/here"
@@ -674,7 +674,7 @@
                 "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
                 "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
                 "journal":"Eur. J. Org. Chem",
-                "image":"../images/publication/european.jpg",
+                "image":"./../images/publication/european.jpg",
                 "date":"20th June, 2018",
                 "link":"https://doi.org/10.1002/ejoc.201701306",
                 "DOI":"doi/goes/here"
@@ -685,7 +685,7 @@
                 "title":"Phosphatidylserine-Dependent Catalysis of Stalk and Pore Formation by Synaptobrevin JMR-TMD Peptide.",
                 "authors":"P. K. Tarafdar, H. Chakraborty, M. J. Bruno & B. R. Lentz*",
                 "journal":"Biophysical Journal",
-                "image":"../images/publication/biophy.png",
+                "image":"./../images/publication/biophy.png",
                 "date":"3rd Nov, 2015",
                 "link":"https://doi.org/10.1016/j.bpj.2015.08.051",
                 "DOI":"doi/goes/here"
@@ -694,7 +694,7 @@
                 "title":"Oligomerization, Conformational Stability and Thermal Unfolding of Harpin, HrpZPss and Its Hypersensitive Response-Inducing C-Terminal Fragment, C-214-HrpZPss.",
                 "authors":"P. K. Tarafdar, V. L. Vasudev, R. S. Sankhala, P. Purushotham, A. R. Podile & M. J. Swamy*",
                 "journal":"Plos One",
-                "image":"../images/publication/plos.png",
+                "image":"./../images/publication/plos.png",
                 "date":"12th Dec, 2014",
                 "link":"https://doi.org/10.1371/journal.pone.0109871",
                 "DOI":"doi/goes/here"
@@ -703,7 +703,7 @@
                 "title":"Wild-Type and Mutant Hemagglutinin Fusion Peptides Alter Bilayer Structure as Well as Kinetics and Activation Thermodynamics of Stalk and Pore Formation Differently: Mechanistic Implications.",
                 "authors":"H. Chakraborty, P. K. Tarafdar, D. G. Klapper & B. R. Lentz*",
                 "journal":"Biophysical Journal",
-                "image":"../images/publication/biophy.png",
+                "image":"./../images/publication/biophy.png",
                 "date":"3rd Dec, 2013",
                 "link":"https://doi.org/10.1016/j.bpj.2013.10.010",
                 "DOI":"doi/goes/here"
@@ -712,7 +712,7 @@
                 "title":"A Novel Assay to Detect Fusion Pore Formation: Implication for Fusion Mechanism.",
                 "authors":"H. Chakraborty, P. K. Tarafdar & B. R. Lentz*",
                 "journal":"Biochemistry",
-                "image":"../images/publication/biochem.jpeg",
+                "image":"./../images/publication/biochem.jpeg",
                 "date":"28th Oct, 2013",
                 "link":"https://doi.org/10.1021/bi401369j",
                 "DOI":"doi/goes/here"
@@ -721,7 +721,7 @@
                 "title":"Thermally stable HrpZPss sensitive to chemical denaturants: Probing tryptophan environment, chemical and thermal unfolding by fluorescence spectroscopy.",
                 "authors":"H. Chakraborty, P. K. Tarafdar & B. R. Lentz*",
                 "journal":"Biochimie",
-                "image":"../images/publication/biochimie.png",
+                "image":"./../images/publication/biochimie.png",
                 "date":"18th Sept, 2013",
                 "link":"https://doi.org/10.1016/j.biochi.2013.09.006",
                 "DOI":"doi/goes/here"
@@ -730,7 +730,7 @@
                 "title":"Effect of Hofmeister Series Anions on the Thermotropic Phase Behavior of Bioactive O-Acylcholines.",
                 "authors":"P. K. Tarafdar, S. T. Reddy & M. J. Swamy*",
                 "journal":"J. Phys. Chem. B.",
-                "image":"../images/publication/jpcb.png",
+                "image":"./../images/publication/jpcb.png",
                 "date":"2nd Aug, 2013",
                 "link":"https://doi.org/10.1021/jp403964k",
                 "DOI":"doi/goes/here"
@@ -739,7 +739,7 @@
                 "title":"Structure and Thermotropic Phase Behavior of a Homologous Series of Bioactive N-Acyldopamines.",
                 "authors":"S. T. Reddy^, P. K. Tarafdar^, R. K. Kamlekar & M. J. Swamy*",
                 "journal":"J. Phys. Chem. B.",
-                "image":"../images/publication/jpcb.png",
+                "image":"./../images/publication/jpcb.png",
                 "date":"24th June, 2013",
                 "link":"https://doi.org/10.1021/jp402750m",
                 "DOI":"doi/goes/here"
@@ -748,20 +748,57 @@
                 "title":"Phosphatidylserine Inhibits and Calcium Promotes Model Membrane Fusion.",
                 "authors":"P. K. Tarafdar, H. Chakraborty, S. M. Dennison & B. R. Lentz*",
                 "journal":"Biophysical Journal",
-                "image":"../images/publication/biophy.png",
+                "image":"./../images/publication/biophy.png",
                 "date":"7th Nov, 2012",
                 "link":"https://doi.org/10.1016/j.bpj.2012.09.030",
                 "DOI":"doi/goes/here"
             },
             {
                 "title":"Activation thermodynamics of poly(ethylene glycol)-mediated model membrane fusion support mechanistic models of stalk and pore formation.",
-                "authors":" H. Chakraborty, P. K. Tarafdar, M. J. Bruno, T. Sengupta & B. R. Lentz*",
+                "authors":"H. Chakraborty, P. K. Tarafdar, M. J. Bruno, T. Sengupta & B. R. Lentz*",
                 "journal":"Biophysical Journal",
-                "image":"../images/publication/biophy.png",
+                "image":"./../images/publication/biophy.png",
                 "date":"20th June, 2012",
                 "link":"https://doi.org/10.1016/j.bpj.2012.04.053",
                 "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Non-classical Odd-Even Alternation in Mixed-chain Diacylethanolamines: Implications of Polymorphism.",
+                "authors":"P. K. Tarafdar, S. T. Reddy & M. J. Swamy*",
+                "journal":"Crystal Growth & Design",
+                "image":"./../images/publication/crys.png",
+                "date":"24th Feb, 2012",
+                "link":"https://doi.org/10.1021/cg200698t",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Organization and Dynamics of Hippocampal Membranes in a Depth-Dependent Manner: An Electron Spin Resonance Study.",
+                "authors":"P. Singh^, P. K. Tarafdar^, M. J. Swamy* & A. Chattopadhyay",
+                "journal":"J. Phys. Chem. B.",
+                "image":"./../images/publication/jpcb.png",
+                "date":"8th Feb, 2012",
+                "link":"https://doi.org/10.1021/jp211485a",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"A Base-triggerable Catanionic Mixed Lipid System: Isothermal Titration Calorimetric and Single-crystal X-ray Diffraction Studies.",
+                "authors":"P. K. Tarafdar, S. T. Reddy & M. J. Swamy*",
+                "journal":"J. Phys. Chem. B.",
+                "image":"./../images/publication/jpcb.png",
+                "date":"11th Oct, 2010",
+                "link":"https://doi.org/10.1021/jp104841k",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Equimolar mixtures of lysophosphatidylcholine and O-stearoylethanolamine form bilayers.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"J. Phys. Chem. B.",
+                "image":"./../images/publication/soft.png",
+                "date":"29th June, 2010",
+                "link":"https://doi.org/10.1039/C0SM00093K",
+                "DOI":"doi/goes/here"
             }
+            
         ]
     },
     "research":{
@@ -769,17 +806,17 @@
         "researchTopics":[
             {
                 "title":"Antivirals and antibacterials",
-                "image":"../images/publication/avijit nov.jpg",
+                "image":"./../images/publication/avijit nov.jpg",
                 "discription":"The emergence of new viruses and their potential mutations obstruct effective vaccine development and possible cure. For example, the recent coronavirus infection already killed ~ 250000 people in India, influenza kills ~ 290000-650000 people annually, dengue infected ~ 4.7 million people last year. An effective fusion inhibitor may emerge as an effective broad-spectrum antiviral to neutralize the infection from harmful enveloped viruses as membrane fusion is extremely important to the life cycle of these viruses. We aim to learn from mother nature to develop an effective fusion inhibitor. Our peptide inhibitors were shown to protect cells from lethal type 1 influenza virus and mouse coronavirus viral challenge as a ‘broad spectrum’ antiviral agent. In addition, we develop polymer-based anti-bacterials."
             },
             {
                 "title":"Membrane Transport inspired Organic Methodology in water",
-                "image":"../images/publication/raki sept.png",
+                "image":"./../images/publication/raki sept.png",
                 "discription":"Membrane trafficking is a core biological process and using this nature directs the correct cargo in a guided manner i.e. to the right place at the right time. We envisioned whether the membrane trafficking can be utilized to promote proximity and localization of reactants to design a small molecule enzyme mimic. We report for the first time that positively charged micro heterogeneous vehicles loaded with substrate could be trafficked suitably at the site of the reaction to promote the localization and proximity of the reactants.  The guided vehicular delivery coupled with electrolysis overcomes the entropic barrier related to the proximity of the reactants and allows the hydrolysis of non-activated esters, electron transfer reactions at physiological pH."
             },
             {
                 "title":"Amyloid Fibril Inhibitors",
-                "image":"../images/publication/soumav sept.webp",
+                "image":"./../images/publication/soumav sept.webp",
                 "discription":"There are currently more than twenty identified amyloid-associated disorders, including common neurodegenerative diseases such as Alzheimer’s disease (AD), Parkinson’s disease, and prion disorders. Unfortunately, the molecular-level understanding of the pathways, including kinetic barrier leading to these debilitating proteopathies remains obscure. We found that the hydrophobic and H-bonding anchoring sites of porphyrin-based molecules inhibit the self-aggregation of amyloidogenic proteins via strong binding with protein units. Our molecules with hydrogen bonding anchoring sites at both sides, was identified as a potent inhibitor to insulin, amyloid-beta and lysozyme fibrillation."
             }
         ]
