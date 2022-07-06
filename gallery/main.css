@@ -1,0 +1,10 @@
+.gallery{
+    display: flex;
+    flex-direction: column;
+    padding: 0 10vw;
+}
+
+.gallery-img-container{
+    display: flex;
+    flex-direction: row;
+}
