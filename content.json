@@ -800,6 +800,60 @@
                 "date":"29th June, 2010",
                 "link":"https://doi.org/10.1039/C0SM00093K",
                 "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Structure and Phase Behavior of O-Stearoylethanolamine: A Combined Calorimetric, Spectroscopic and X-Ray Diffraction Study.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"Biochim. Biophys. Acta-Biomembranes",
+                "image":"./../images/publication/bba.png",
+                "date":"5th May, 2010",
+                "link":"https://doi.org/10.1016/j.bbamem.2010.01.012",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Structure, Phase Behaviour and Membrane Interactions of N-Acylethanolamines and N-Acylphosphatidylethanolamines.",
+                "authors":"M. J. Swamy*, P. K. Tarafdar & R. K. Kamlekar",
+                "journal":"Chem. Phys. Lipids",
+                "image":"./../images/publication/cpl.png",
+                "date":"15th Jan, 2010",
+                "link":"https://doi.org/10.1016/j.chemphyslip.2010.01.002",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Calorimetric Studies and Crystal Structures of N, O-Diacylethanolamines with Matched Chains.",
+                "authors":"R. K. Kamlekar^, P. K. Tarafdar^ & M. J. Swamy*",
+                "journal":"J. Lipid Research",
+                "image":"./../images/publication/jlr.png",
+                "date":"5th Jan, 2010",
+                "link":"https://doi.org/10.1194/jlr.M900105-JLR200",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Polymorphism in ‘L’ Shaped Lipids: Structure of N-,O-Diacylethanolamines with Mixed acyl chains.",
+                "authors":"P. K. Tarafdar & M. J. Swamy*",
+                "journal":"Chem. Phys. Lipids",
+                "image":"./../images/publication/cpl.png",
+                "date":"25th Aug, 2009",
+                "link":"https://doi.org/10.1016/j.chemphyslip.2009.08.004",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Biophysical Investigations on the Aggregation and Thermal Unfolding of HarpinPss and Identification of Leucine-Zipper-Like Motifs in Harpins.",
+                "authors":"P. K. Tarafdar, V. L. Vasudev, A. Kondreddy, A. R. Podile & M. J. Swamy*",
+                "journal":"Biochim. Biophys. Acta-Proteins and Proteomics",
+                "image":"./../images/publication/bba.png",
+                "date":"7th Aug, 2009",
+                "link":"https://doi.org/10.1016/j.bbapap.2009.07.023",
+                "DOI":"doi/goes/here"
+            },
+            {
+                "title":"Differential Scanning Calorimetric Studies on the Interaction of N-Acylethanolamines with Cholesterol.",
+                "authors":"M. Ramakrishnan, P. K. Tarafdar, R. K. Kamlekar & M. J. Swamy*",
+                "journal":"Current Science",
+                "image":"./../images/publication/current.png",
+                "date":"25th July, 2007",
+                "link":"http://www.jstor.org/stable/24099311",
+                "DOI":"doi/goes/here"
             }
             
         ]
