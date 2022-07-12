@@ -31,6 +31,7 @@ a:focus:hover{
 
 div p{
   /* margin: 6px; */
+  /* line-height: 2px; */
   padding: 0;
   border: 0;
 }
@@ -361,14 +362,15 @@ body {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  padding: 4vh 10vw;
+  padding: 4vh 4vw 4vh 10vw;
   align-content: flex-start;
 }
 
 .footer-div{
-  align-items: flex-start;
   display: flex;
   flex-direction: column;
-  align-content: flex-start;
   justify-content: center;
+  /* flex-wrap: nowrap; */
+  align-content: center;
+  align-items: flex-start;
 }

@@ -108,14 +108,14 @@
 
   <div class="footer_container">
     <div class="footer-div" style="width:41%;">
-      <a href="https://chem.iiserkol.ac.in/">
-        <img src="./images/logo 3.png" alt="" style="background-color: white;padding:10px;width: 300px;">
-        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;width: 300px;">
+      <a href="https://chem.iiserkol.ac.in/" style="color: black;align-items: center;display: flex;flex-direction: column;">
+        <img src="./images/memface_logo.svg" alt="" style="background-color: white;padding:0;width: 500px;">
+        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;width: 400px;">
       </a>
     </div>
     <div style="width: 8vw;"></div>
     <div class="footer-div" style="width:41%;">
-      <h2>Contact us</h2>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;Contact us</h2>
       <div style="display: flex; flex-direction: row; ">
         <img src="./images/footer icons/mail.svg" alt="">
         &nbsp;&nbsp;&nbsp;
@@ -185,7 +185,7 @@
         researchList.push(`
         <div class="researchTopic" onclick="viewResearch(${i})" style="cursor: pointer;" >
           <img class="researchImage" src="${'./images/'+research.researchTopics[i].image}" alt="">
-          <h3 style="padding: 10px;">${research.researchTopics[i].title}</ style="padding: 10px;">
+          <h3 style="font-weight: 500;padding: 10px;">${research.researchTopics[i].title}</ style="padding: 10px;">
         </div>
         `);
       }
@@ -203,7 +203,7 @@
         publicationList.push(`
           <div class="researchTopic" onclick="viewPublications(${i})" style="cursor: pointer;" >
             <img class="researchImage" src="${'./images/'+publications.publicationListAtIISER[i].image}" alt="">
-            <h3 style="padding: 10px;">${publications.publicationListAtIISER[i].title}</ style="padding: 10px;">
+            <h3 style="font-weight: 500;padding: 10px;">${publications.publicationListAtIISER[i].title}</ style="padding: 10px;">
           </div>
         `);
       }

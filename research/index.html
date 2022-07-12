@@ -45,17 +45,24 @@
     </div>
   </div>
 
-    <div style="height: 16vh;"></div>
-    
+  
+    <div style="font-size:1.16em;padding: 0;height: 100vh;background-color: #161E26;">
+      <div style="height: 16vh;"></div>
+      <img src="./../images/research/research.png" alt="research" style="width:100vw;" >
+
+      <Div class="arrow" style="width: 1.5em; height: 1.5em; background-color: transparent; z-index: 80;bottom: -50px; position: absolute; border-width: 0 0.25em 0.25em 0; border-style: solid; border-color: antiquewhite; animation: scrolldown 1.2s ease-in-out infinite 0.15s;"></Div>
+      <Div class="arrow" style="width: 1.5em; height: 1.5em; background-color: transparent; z-index: 80;bottom: -65px; position: absolute; border-width: 0 0.25em 0.25em 0; border-style: solid; border-color: antiquewhite; animation: scrolldown 1.2s ease-in-out infinite;"></Div>
+      
+    </div>
+
     <div class="pubContainer" id="pubContainer">
-        
     </div>
 
     <div class="footer_container">
     <div class="footer-div" style="width:41%;">
-      <a href="https://chem.iiserkol.ac.in/">
-        <img src="./../images/logo 3.png" alt="" style="background-color: white;padding:10px;width: 300px;">
-        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;width: 300px;">
+      <a href="https://chem.iiserkol.ac.in/" style="color: black;align-items: center;display: flex;flex-direction: column;">
+        <img src="./../images/memface_logo.svg" alt="" style="background-color: white;padding:0;width: 500px;">
+        <img src="https://chem.iiserkol.ac.in/images/logo.png" alt="" style="background-color: white;padding:10px;width: 400px;">
       </a>
     </div>
     <div style="width: 8vw;"></div>
@@ -115,7 +122,7 @@ let contact = data.contact
             <div class="publication">
               <img src="${research.researchTopics[i].image}" alt="" class="pubImg">
               <div class="publicationLeft">
-                <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;">
+                <div style="display: flex;flex-direction: row; justify-content: center;align-items: center;font-size:1.16em;">
                   <p>
                     ${research.researchTopics[i].discription}
                   </p>
@@ -128,6 +135,19 @@ let contact = data.contact
         newsContainer.innerHTML = researchTopics.join("");
         
       })
+
+      $(document).ready(function(){
+      $("a").css("color" , "white");	
+      $(window).scroll(function(){
+        var scroll = $(window).scrollTop();
+        if (scroll > 500) {
+          $("a").css("color" , "black");
+        }
+        else{
+          $("a").css("color" , "white");	
+        }
+      })
+    })
       
       var prevScrollpos = window.pageYOffset;
       window.onscroll = function() {
