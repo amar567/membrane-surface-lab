@@ -901,10 +901,7 @@
     },
     "gallery":{
         "activities":[
-            {
-                "image":"./../images/gallery/bhp 1.jpeg",
-                "discription":"Bibhas presents his work as a poster presentation in the Department day programme of DCS on 9th April '22, held at IISER Kolkata. The event took place after two years and we witnessed many cheerful faces, assembled to witness the plethora of research at DCS."
-            },
+            
             {
                 "image":"./../images/gallery/lab party.jpeg",
                 "discription":"Glimpses of a last get-together with two of our brilliant BS-MS students - Soumajit and Bishvanwesha, as they head towards pursuing PhD. in the US. Both of them joined our lab in their 3rd year in early 2020 and now after successfully completing their masters' they are set to achieve higher goals. We wish them all the best for their future endaveours! Have a bright future and wonderful life ahead."
@@ -918,8 +915,16 @@
                 "discription":"Our oldest (and wisest XD) student Avijit successfully completes his pre-submission seminar. Years of dedicated research and hardwork culimates to this. So proud of you!"
             },
             {
+                "image":"./../images/gallery/bhp 1.jpeg",
+                "discription":"Bibhas presents his work as a poster presentation in the Department day programme of DCS on 9th April '22, held at IISER Kolkata. The event took place after two years and we witnessed many cheerful faces, assembled to witness the plethora of research at DCS."
+            },
+            {
                 "image":"./../images/people/group 2.jpg",
                 "discription":"Our group just got bigger and better! With the official joining of Sanu and Debosmita, we are looking forward to attaining greater heights than ever (obviously without reducing the fun time together :P). Welcome to both of you."
+            },
+            {
+                "image":"./../images/gallery/trip.jpeg",
+                "discription":"A fun filled and relaxing journey to the lap of mother nature - Trip to Sandakphu, Dec 2021."
             },
             {
                 "image":"./../images/gallery/home 2.jpeg",
