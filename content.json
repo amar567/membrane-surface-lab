@@ -928,13 +928,25 @@
         ],
         "instruments":[
             {
+                "image":"./../images/gallery/lab 3.webp",
+                "discription":"Work stations inside the lab."
+            },
+            {
                 "image":"./../images/gallery/lab 5.webp",
                 "discription":"Analytical Instrument desk."
             },
             {
                 "image":"./../images/gallery/fluoro.webp",
                 "discription":"Our state of the art - Hitachi F-7000 Fluorecence Spectrophotometer."
-            },            
+            },
+            {
+                "image":"./../images/gallery/rota.jpeg",
+                "discription":"Our two rota-vapors: Buchi Rotavopor R-100."
+            },
+            {
+                "image":"./../images/gallery/uv.jpeg",
+                "discription":"Two more analytical instruments: Biotek Epoch 2 microplate reader (for UV measurements) and Eppendorf Centrifuge 5804 R."
+            },              
             {
                 "image":"./../images/gallery/flash.webp",
                 "discription":"CombiFlash System."
@@ -944,8 +956,8 @@
                 "discription":"Laminar flow hood for delicate bilogical works."
             },            
             {
-                "image":"./../images/gallery/laminar.webp",
-                "discription":"Laminar flow hood for delicate bilogical works."
+                "image":"./../images/gallery/ly.jpeg",
+                "discription":"Lyophylizer and Probe sonicator."
             }
         ]
     }
