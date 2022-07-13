@@ -950,14 +950,14 @@
             {
                 "image":"./../images/gallery/flash.webp",
                 "discription":"CombiFlash System."
+            },       
+            {
+                "image":"./../images/gallery/ly.jpeg",
+                "discription":"Lyophylizer and Probe sonicator."
             },
             {
                 "image":"./../images/gallery/laminar.webp",
                 "discription":"Laminar flow hood for delicate bilogical works."
-            },            
-            {
-                "image":"./../images/gallery/ly.jpeg",
-                "discription":"Lyophylizer and Probe sonicator."
             }
         ]
     }
