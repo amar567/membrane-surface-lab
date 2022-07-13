@@ -88,7 +88,7 @@
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"./../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/av.jpeg",
                 "twitter":"link to twitter",
                 "email" : "as16rs019@iiserkol.ac.in",
                 "bsc" : "St. Paul's Cathedral Mission College",
@@ -520,6 +520,24 @@
         "newsList":[
             
             {
+                "title":"Soumajit successfully completes his Masters' thesis presentation. Congratulations!",
+                "image":"./../images/people/current/sg.jpeg",
+                "date":"18th May, 2022",
+                "description":"Soumajit successfully defends his masters' thesis titled - Development of porphyrin derivatives as potential amyloid inhibitors."
+            },
+            {
+                "title":"Bishvanwesha successfully completes her Masters' thesis presentation. Congratulations!",
+                "image":"./../images/people/current/Bishvanwesha.jpg",
+                "date":"18th May, 2022",
+                "description":"Bishvanwesha successfully defends hers masters' thesis titled - Fusion inhibition of sterol-linked dipeptides: Role of membrane composition and linker."
+            },
+            {
+                "title":"Avijit successfully completes his PhD. Pre-submission seminar. Congratulations!",
+                "image":"./../images/people/current/av.jpeg",
+                "date":"25th April, 2022",
+                "description":"Avijit successfully completes his PhD. Pre-submission seminar titled - Membrane Fusion and Its Inhibition to Design Antiviral Compounds."
+            },
+            {
                 "title":"Bishvanwesha gets another PhD. offer from USA. Congratulations!",
                 "image":"./../images/people/current/Bishvanwesha.jpg",
                 "date":"5th April, 2022",
@@ -545,7 +563,7 @@
             },
             {
                 "title":"Avijit bagged the best presentation award in JNOST XV. Congratulations!",
-                "image":"./../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/av.jpeg",
                 "date":"9th Jan, 2022",
                 "description":"Avijit was conferred with the best presentation award at JNOST - The Seminar hosted by University of Hyderabad."
             }
@@ -884,6 +902,10 @@
     "gallery":{
         "activities":[
             {
+                "image":"./../images/gallery/bhp 1.jpeg",
+                "discription":"Bibhas presents his work as a poster presentation in the Department day programme of DCS on 9th April '22, held at IISER Kolkata. The event took place after two years and we witnessed many cheerful faces, assembled to witness the plethora of research at DCS."
+            },
+            {
                 "image":"./../images/gallery/lab party.jpeg",
                 "discription":"Glimpses of a last get-together with two of our brilliant BS-MS students - Soumajit and Bishvanwesha, as they head towards pursuing PhD. in the US. Both of them joined our lab in their 3rd year in early 2020 and now after successfully completing their masters' they are set to achieve higher goals. We wish them all the best for their future endaveours! Have a bright future and wonderful life ahead."
             },
@@ -906,16 +928,24 @@
         ],
         "instruments":[
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/lab 5.webp",
+                "discription":"Analytical Instrument desk."
             },
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/fluoro.webp",
+                "discription":"Our state of the art - Hitachi F-7000 Fluorecence Spectrophotometer."
+            },            
+            {
+                "image":"./../images/gallery/flash.webp",
+                "discription":"CombiFlash System."
             },
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/laminar.webp",
+                "discription":"Laminar flow hood for delicate bilogical works."
+            },            
+            {
+                "image":"./../images/gallery/laminar.webp",
+                "discription":"Laminar flow hood for delicate bilogical works."
             }
         ]
     }
