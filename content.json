@@ -88,7 +88,7 @@
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"./../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/av.jpeg",
                 "twitter":"link to twitter",
                 "email" : "as16rs019@iiserkol.ac.in",
                 "bsc" : "St. Paul's Cathedral Mission College",
@@ -117,7 +117,7 @@
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"./../images/people/current/mahesh.webp",
+                "image":"./../images/people/current/mahesh.jpeg",
                 "twitter":"link to twitter",
                 "email" : "mp16rs063@iiserkol.ac.in",
                 "bsc" : "P.K.Roy Memorial College, Dhanbad",
@@ -508,6 +508,7 @@
             "Mr. Soumajit Gayen - IISER Kolkata - Summer 2021",
             "Ms. Bishvanwesha Panda - IISER Kolkata - Summer 2021",
             "Ms. Soumili Pani - IISER Kolkata - Summer 2021",
+            "Ms. Debosmita Bhowmick - IISER Kolkata - Summer 2021",
             "Mr. Banibrata Maiti - IIT Kanpur - Summer 2021",
             "Mr. Shubhajyoti Roy - IIT Tirupati - Summer 2021",
             "Ms. Isha Nandini Kaman - IISER Kolkata - Winter 2021",
@@ -517,7 +518,36 @@
     },
     "news":{
         "newsList":[
-            
+            {
+                "title":"Soumajit is conferred with 'The Chairman's Medal of Excellence'!",
+                "image":"./../images/news/medal.jpeg",
+                "date":"14th July, 2022",
+                "description":"Soumajit is conferred with 'The Chairman's Medal of Excellence', a special recognition awarded for all-round excellence and significant contribution in academics, extra-curriculars, leadership and helping the society. Heartiest congratulations and way to go!"
+            },
+            {
+                "title":"Bishvanwesha and Soumajit graduate with BS-MS degree. Heartiest congratulations and best wishes!",
+                "image":"./../images/news/grad.jpeg",
+                "date":"14th July, 2022",
+                "description":"Bishvanwesha and Soumajit graduate from IISER Kolkata after completion of their the BS-MS degree programme, at the 9th Convocation Ceremony of IISER Kolkata. We had a wonderful and memorable journey together. Heartiest congratulations and best wishes for your future!"
+            },            
+            {
+                "title":"Soumajit successfully completes his Masters' thesis presentation. Congratulations!",
+                "image":"./../images/news/sg.jpeg",
+                "date":"18th May, 2022",
+                "description":"Soumajit successfully defends his masters' thesis titled - Development of porphyrin derivatives as potential amyloid inhibitors."
+            },
+            {
+                "title":"Bishvanwesha successfully completes her Masters' thesis presentation. Congratulations!",
+                "image":"./../images/news/bp.jpeg",
+                "date":"18th May, 2022",
+                "description":"Bishvanwesha successfully defends hers masters' thesis titled - Fusion inhibition of sterol-linked dipeptides: Role of membrane composition and linker."
+            },
+            {
+                "title":"Avijit successfully completes his PhD. Pre-submission seminar. Congratulations!",
+                "image":"./../images/people/current/av.jpeg",
+                "date":"25th April, 2022",
+                "description":"Avijit successfully completes his PhD. Pre-submission seminar titled - Membrane Fusion and Its Inhibition to Design Antiviral Compounds."
+            },
             {
                 "title":"Bishvanwesha gets another PhD. offer from USA. Congratulations!",
                 "image":"./../images/people/current/Bishvanwesha.jpg",
@@ -544,7 +574,7 @@
             },
             {
                 "title":"Avijit bagged the best presentation award in JNOST XV. Congratulations!",
-                "image":"./../images/people/current/avijit_edited.webp",
+                "image":"./../images/people/current/av.jpeg",
                 "date":"9th Jan, 2022",
                 "description":"Avijit was conferred with the best presentation award at JNOST - The Seminar hosted by University of Hyderabad."
             }
@@ -882,21 +912,30 @@
     },
     "gallery":{
         "activities":[
+            
             {
                 "image":"./../images/gallery/lab party.jpeg",
                 "discription":"Glimpses of a last get-together with two of our brilliant BS-MS students - Soumajit and Bishvanwesha, as they head towards pursuing PhD. in the US. Both of them joined our lab in their 3rd year in early 2020 and now after successfully completing their masters' they are set to achieve higher goals. We wish them all the best for their future endaveours! Have a bright future and wonderful life ahead."
             },
             {
                 "image":"./../images/gallery/asp 2.jpeg",
-                "discription":"As we prepare to move onto the next phase of our journey, the memories keep us bound to the wonderful people who stood beside us! Here's a glimpse of Avijit reminiscing and acknowledging the wonderful time we spent as a family in Memface lab."
+                "discription":"As we prepare to move onto the next phase of our journey, the memories keep us bound to the wonderful people who stood beside us! Here's a glimpse of Avijit reminiscing and acknowledging the wonderful time spent as a family in Memface lab."
             },
             {
                 "image":"./../images/gallery/asp 1.jpeg",
-                "discription":"Our oldest (and wisest) student Avijit successfully completes his pre-submission seminar. Years of dedicated research and hardwork culimates to this. So proud of you!"
+                "discription":"Our oldest (and wisest XD) student Avijit successfully completes his pre-submission seminar. Years of dedicated research and hardwork culimates to this. So proud of you!"
+            },
+            {
+                "image":"./../images/gallery/bhp 1.jpeg",
+                "discription":"Bibhas presents his work as a poster presentation in the Department day programme of DCS on 9th April '22, held at IISER Kolkata. The event took place after two years and we witnessed many cheerful faces, assembled to witness the plethora of research at DCS."
             },
             {
                 "image":"./../images/people/group 2.jpg",
                 "discription":"Our group just got bigger and better! With the official joining of Sanu and Debosmita, we are looking forward to attaining greater heights than ever (obviously without reducing the fun time together :P). Welcome to both of you."
+            },
+            {
+                "image":"./../images/gallery/trip.jpeg",
+                "discription":"A fun filled and relaxing journey to the lap of mother nature - Trip to Sandakphu, Dec 2021."
             },
             {
                 "image":"./../images/gallery/home 2.jpeg",
@@ -905,16 +944,36 @@
         ],
         "instruments":[
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/lab 3.webp",
+                "discription":"Work stations inside the lab."
             },
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/lab 5.webp",
+                "discription":"Analytical Instrument desk."
             },
             {
-                "image":"./../images/people/group 2.jpg",
-                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "image":"./../images/gallery/fluoro.webp",
+                "discription":"Our state of the art - Hitachi F-7000 Fluorecence Spectrophotometer."
+            },
+            {
+                "image":"./../images/gallery/rota.jpeg",
+                "discription":"Our two rota-vapors: Buchi Rotavopor R-100."
+            },
+            {
+                "image":"./../images/gallery/uv.jpeg",
+                "discription":"Two more analytical instruments: Biotek Epoch 2 microplate reader (for UV measurements) and Eppendorf Centrifuge 5804 R."
+            },              
+            {
+                "image":"./../images/gallery/flash.webp",
+                "discription":"CombiFlash System."
+            },       
+            {
+                "image":"./../images/gallery/ly.jpeg",
+                "discription":"Lyophylizer and Probe sonicator."
+            },
+            {
+                "image":"./../images/gallery/laminar.webp",
+                "discription":"Laminar flow hood for delicate biological works."
             }
         ]
     }
