@@ -520,26 +520,25 @@
         "newsList":[
             {
                 "title":"Soumajit is conferred with 'The Chairman's Medal of Excellence'!",
-                "image":"./../images/news/medal.jpg",
+                "image":"./../images/news/medal.jpeg",
                 "date":"14th July, 2022",
-                "description":"Soumajit is conferred with 'The Chairman's Medal of Excellence', a special recognition awarded for all-round excellance in academics, extra-curriculars, leadership and helping the society. Heartiest congratulations and way to go!"
+                "description":"Soumajit is conferred with 'The Chairman's Medal of Excellence', a special recognition awarded for all-round excellence and significant contribution in academics, extra-curriculars, leadership and helping the society. Heartiest congratulations and way to go!"
             },
             {
                 "title":"Bishvanwesha and Soumajit graduate with BS-MS degree. Heartiest congratulations and best wishes!",
-                "image":"./../images/news/grad.jpg",
+                "image":"./../images/news/grad.jpeg",
                 "date":"14th July, 2022",
                 "description":"Bishvanwesha and Soumajit graduate from IISER Kolkata after completion of their the BS-MS degree programme, at the 9th Convocation Ceremony of IISER Kolkata. We had a wonderful and memorable journey together. Heartiest congratulations and best wishes for your future!"
-            },
-            
+            },            
             {
                 "title":"Soumajit successfully completes his Masters' thesis presentation. Congratulations!",
-                "image":"./../images/people/current/sg.jpeg",
+                "image":"./../images/news/sg.jpeg",
                 "date":"18th May, 2022",
                 "description":"Soumajit successfully defends his masters' thesis titled - Development of porphyrin derivatives as potential amyloid inhibitors."
             },
             {
                 "title":"Bishvanwesha successfully completes her Masters' thesis presentation. Congratulations!",
-                "image":"./../images/people/current/bp.jpeg",
+                "image":"./../images/news/bp.jpeg",
                 "date":"18th May, 2022",
                 "description":"Bishvanwesha successfully defends hers masters' thesis titled - Fusion inhibition of sterol-linked dipeptides: Role of membrane composition and linker."
             },
