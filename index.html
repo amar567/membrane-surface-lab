@@ -226,15 +226,15 @@
     })
 
     const view = (i)=>{
-      window.location.assign(`/news/view/?index=${i}`);
+      window.location.assign(`${window.location}news/view/?index=${i}`);
     }
 
     const viewResearch = (i)=>{
-      window.location.assign(`/research/#${i}`);
+      window.location.assign(`${window.location}research/#${i}`);
     }
 
     const viewPublications = (i)=>{
-      window.location.assign(`/publication/#${i}`);
+      window.location.assign(`${window.location}publication/#${i}`);
     }
 
     $(document).ready(function(){
