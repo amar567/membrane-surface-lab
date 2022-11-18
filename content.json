@@ -650,12 +650,30 @@
         "heading": "Publications",
         "publicationListAtIISER":[
             {
-                "title":"Controlling the Membrane Perturbation by Tuning Charge Variable Cholate-Based Macromolecules.",
-                "authors":"S. Sahoo^, B. Hazra^, P. K. Tarafdar*",
-                "journal":"ACS Applied Polymer Materials",
-                "image":"./../images/publication/bibhas dec.jpeg",
-                "date":"31st Dec, 2021",
-                "link":"https://doi.org/10.1021/acsapm.1c01727",
+                "title":"C-Terminal Lipidation of SARS-CoV-2 Fusion Peptide Reinstates Superior Membrane Fusion Catalytic Ability.",
+                "authors":"A. Sardar, T. Bera, S. K. Samal, N. Dewangan, M. Kamble, S. Guha & P. K. Tarafdar*",
+                "journal":"Chemistry- A European Journal (Accepted)",
+                "image":"./../images/publication/Chem-Eur J.jpeg",
+                "date":"November, 2022",
+                "link":"",
+                "DOI":""
+            },
+            {
+                "title":"Lipidated Lysine and Fatty Acid Assemble into Protocellular Membrane to Assist Regioselective Peptide Formation: Correlation to the Natural Selection of Lysine over Non-proteinogenic Lower Analogues.",
+                "authors":"B. Hazra, A. Mondal, M. Prasad, S. Gayen, R. Mandal, A. Sardar, & P. K. Tarafdar*",
+                "journal":"Langmuir (Accepted)",
+                "image":"./../images/publication/Langmuir.jpeg",
+                "date":"November, 2022",
+                "link":"",
+                "DOI":""
+            },
+            {
+                "title":"Lipid and Lipidation in Membrane Fusion.",
+                "authors":"A. Sardar, N. Dewangan, B. Panda, D. Bhowmick & P. K. Tarafdar*",
+                "journal":"The Journal of Membrane Biology",
+                "image":"./../images/publication/JMB-22.jpeg",
+                "date":"August, 2022",
+                "link":"https://link.springer.com/article/10.1007/s00232-022-00267-5",
                 "DOI":""
             },
             {
