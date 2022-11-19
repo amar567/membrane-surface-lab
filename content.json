@@ -413,11 +413,11 @@
                 "image":"./../images/people/alumni/rahul.jpg",
                 "twitter":"link to twitter",
                 "email":"rp14ms034@iiserkol.ac.in; rahulisgenius@gmail.com",
-                "currentPosition":"Graduate Fellow, University of South Carolina, USA"
+                "currentPosition":"PhD Student at University of South Carolina, USA"
             },
             {
                 "name":"Mr. Rajat Roy <br> <font style='font-size: small;'>(2017-2019)</font>",
-                "researchArea":"xyz",
+                "researchArea":"Exploring anti-malarial activity of Heme analogues",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
@@ -445,7 +445,7 @@
             },
             {
                 "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
-                "researchArea":"xyz",
+                "researchArea":"",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
@@ -473,7 +473,7 @@
             },
             {
                 "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
-                "researchArea":"xyz",
+                "researchArea":"",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
