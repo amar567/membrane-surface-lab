@@ -445,7 +445,7 @@
             },
             {
                 "name":"Mr. Saif Rahman <br> <font style='font-size: small;'>(2017 - 2019)</font>",
-                "researchArea":"",
+                "researchArea":"-",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
@@ -473,7 +473,7 @@
             },
             {
                 "name":"Mr. Nilesh Rout <br> <font style='font-size: small;'>(2016 - 2018)</font>",
-                "researchArea":"",
+                "researchArea":"-",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
@@ -497,7 +497,7 @@
                 "image":"./../images/people/alumni/nilesh.jpg",
                 "twitter":"link to twitter",
                 "email":"",
-                "currentPosition":""
+                "currentPosition":"-"
             }
             
         ],
