@@ -649,15 +649,7 @@
     "publications":{
         "heading": "Publications",
         "publicationListAtIISER":[
-            {
-                "title":"C-Terminal Lipidation of SARS-CoV-2 Fusion Peptide Reinstates Superior Membrane Fusion Catalytic Ability.",
-                "authors":"A. Sardar, T. Bera, S. K. Samal, N. Dewangan, M. Kamble, S. Guha & P. K. Tarafdar*",
-                "journal":"Chemistry - A European Journal (Accepted)",
-                "image":"./../images/publication/Chem-Eur J.jpg",
-                "date":"November, 2022",
-                "link":"",
-                "DOI":""
-            },
+            
             {
                 "title":"Lipidated Lysine and Fatty Acid Assemble into Protocellular Membrane to Assist Regioselective Peptide Formation: Correlation to the Natural Selection of Lysine over Non-proteinogenic Lower Analogues.",
                 "authors":"B. Hazra, A. Mondal, M. Prasad, S. Gayen, R. Mandal, A. Sardar, & P. K. Tarafdar*",
@@ -665,6 +657,15 @@
                 "image":"./../images/publication/Langmuir.png",
                 "date":"30th Nov, 2022",
                 "link":"https://doi.org/10.1021/acs.langmuir.2c02849",
+                "DOI":""
+            },
+            {
+                "title":"C-Terminal Lipidation of SARS-CoV-2 Fusion Peptide Reinstates Superior Membrane Fusion Catalytic Ability.",
+                "authors":"A. Sardar, T. Bera, S. K. Samal, N. Dewangan, M. Kamble, S. Guha & P. K. Tarafdar*",
+                "journal":"Chemistry - A European Journal",
+                "image":"./../images/publication/Chem-Eur J.jpg",
+                "date":"24th Nov, 2022",
+                "link":"https://doi.org/10.1002/chem.202203034",
                 "DOI":""
             },
             {
