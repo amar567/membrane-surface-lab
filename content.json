@@ -181,35 +181,7 @@
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
                 "msc" : "Indian Institute of Technology, Delhi"
             },
-            {
-                "name": "Mr. Anoy Mondal <br> <font style='font-size: small;'>(2019 - Ongoing)</font>",
-                "researchArea":"Development of novel hydrogels and stimuli responsive soft materials.",
-                "publications":[
-                    {
-                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
-                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
-                        "journal":"Eur. J. Org. Chem",
-                        "image":"./../images/publication/european.jpg",
-                        "date":"20th June, 2018",
-                        "link":"https://doi.org/10.1002/ejoc.201701306",
-                        "DOI":"doi/goes/here"
-                    },
-                    {
-                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
-                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
-                        "journal":"Eur. J. Org. Chem",
-                        "image":"./../images/publication/european.jpg",
-                        "date":"20th June, 2018",
-                        "link":"https://doi.org/10.1002/ejoc.201701306",
-                        "DOI":"doi/goes/here"
-                    }
-                ],
-                "image":"./../images/people/current/Anoy.jfif",
-                "twitter":"link to twitter",
-                "email" : "am18ip004@iiserkol.ac.in",
-                "bsc" : "Durgapur Govt. College, Burdwan University",
-                "msc" : "IISER Kolkata"
-            },
+            
             {
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "researchArea":"Development of natural product based broad spectrum antivirals.",
@@ -239,9 +211,10 @@
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
                 "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
             },
+            
             {
-                "name" : "Mr. Sanu Sar <br> <font style='font-size: small;'>(2021 - Ongoing)</font>",
-                "researchArea":"Membrane transport inspired electrochemical synethetic methodologies in water.",
+                "name" : "Mr. Subrata Das <br> <font style='font-size: small;'>(2022 - Ongoing)</font>",
+                "researchArea":"Supramolecular Chemistry.",
                 "publications":[
                     {
                         "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
@@ -262,11 +235,11 @@
                         "DOI":"doi/goes/here"
                     }
                 ],
-                "image":"./../images/people/current/sanu 2.jpeg",   
+                "image":"./../images/people/current/subrata.jpeg",   
                 "twitter":"link to twitter",
-                "email" : "ss21rs106@iiserkol.ac.in",
-                "bsc" : "Ramakrishna Mission Vivekananda Centenary College",
-                "msc" : "University of Kalyani"
+                "email" : "sd22rs056@iiserkol.ac.in",
+                "bsc" : "Vivekananda College",
+                "msc" : "Ramakrishna Mission Vivekananda Centenary College"
             }    
         ],
         "undergrad":[
@@ -300,6 +273,37 @@
             }
         ],
         "alumni":[
+            {
+                "name":"Mr. Anoy Mondal <br> <font style='font-size: small;'>(2020 - 2022)</font>",
+                "researchArea":"Development of novel strategies against amyloids",
+                "publications":[
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"./../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    },
+                    {
+                        "title":"Recent Advances in Iodosobenzene-Mediated Construction of Heterocyclic Scaffolds: Transition-Metal-Free Approaches and Scope.",
+                        "authors":"K. S. Gayen, N. Chatterjee, S. Khamarui & P. K. Tarafdar",
+                        "journal":"Eur. J. Org. Chem",
+                        "image":"./../images/publication/european.jpg",
+                        "date":"20th June, 2018",
+                        "link":"https://doi.org/10.1002/ejoc.201701306",
+                        "DOI":"doi/goes/here"
+                    }
+                ],
+                "image":"./../images/people/alumni/Anoy.jfif",
+                "twitter":"@soumajit_gayen",
+                "email":[
+                    "gayen005@umn.edu",
+                    "9supratim@gmail.com"
+                ],
+                "currentPosition":"NA"
+            },
             {
                 "name":"Mr. Soumajit Gayen <br> <font style='font-size: small;'>(2020 - 2022)</font>",
                 "researchArea":"Development of novel strategies against amyloids",
