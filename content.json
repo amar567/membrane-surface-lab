@@ -952,6 +952,10 @@
     "gallery":{
         "activities":[
             {
+                "image":"./../images/news/medal.jpeg",
+                "discription":"Soumajit is conferred with 'The Chairman's Medal of Excellence' at the 9th Convocation ceremony of IISER Kolkata, a special recognition awarded for all-round excellence and significant contribution in academics, extra-curriculars, leadership and helping the society. Heartiest congratulations and way to go!"
+            },
+            {
                 "image":"./../images/gallery/conv.jpeg",
                 "discription":"With great elation mixed with an equal amount of sadness, we bid farewell to two of our family members! Soumajit and Bishvanwesha bids farewell to IISER Kokata after their graduation at the 9th Convocation of IISER Kolkata. We wish them all the best for their future journey!"
             },
