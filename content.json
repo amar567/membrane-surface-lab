@@ -94,6 +94,7 @@
                 "bsc" : "St. Paul's Cathedral Mission College",
                 "msc" : "Ramakrishna Mission Residential College, Narendrapur"
             },
+            
             {
                 "name": "Mr. Mahesh Prasad <br> <font style='font-size: small;'>(2016-ongoing)</font>",
                 "researchArea":"Cationic lipid mediated phosphate templated supramolecular assemblies.",
@@ -123,6 +124,7 @@
                 "bsc" : "P.K.Roy Memorial College, Dhanbad",
                 "msc" : "Vinoba Bhave University, Hazaribagh"
             },
+
             {
                 "name": "Mr. Bibhas Hazra <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"Prebiotic membrane evolution, Development of polymer-based antibacterials and stimuli responsive materials.",
@@ -152,6 +154,7 @@
                 "bsc" : "Midnapore College",
                 "msc" : "Vidyasagar University"
             },
+
             {
                 "name": "Mr. Raki Mandal <br> <font style='font-size: small;'>(2017-ongoing)</font>",
                 "researchArea":"Membrane transport inspired electrochemical synethetic methodologies in water.",
@@ -180,8 +183,8 @@
                 "email" : "rm17rs040@iiserkol.ac.in",
                 "bsc" : "Ramakrishna Mission Vivekananda Centenary College, Rahara",
                 "msc" : "Indian Institute of Technology, Delhi"
-            },
-            
+            }, 
+
             {
                 "name" : "Mr. Nikesh Dewangan <br> <font style='font-size: small;'>(2020 - Ongoing)</font>",
                 "researchArea":"Development of natural product based broad spectrum antivirals.",
@@ -210,8 +213,8 @@
                 "email" : "nd20rs021@iiserkol.ac.in",
                 "bsc" : "RRDS Govt. College, Khairagarsh, Chattishgarh",
                 "msc" : "Govt. N.P.G College of Science, Raipur, Chattishgarh "
-            },
-            
+            }, 
+
             {
                 "name" : "Mr. Subrata Das <br> <font style='font-size: small;'>(2022 - Ongoing)</font>",
                 "researchArea":"Supramolecular Chemistry.",
